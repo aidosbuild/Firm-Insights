@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T11:39:50.864Z",
-  "lastCheckedAt": "2026-10-12T00:10:52.292Z",
-  "recordCount": 174,
+  "generatedAt": "2026-10-12T12:42:11.055Z",
+  "lastCheckedAt": "2026-10-12T12:42:11.055Z",
+  "recordCount": 179,
   "firms": [
     {
       "name": "Addisons",
@@ -1144,6 +1144,42 @@
       "records": [
         {
           "firm": "MinterEllison",
+          "title": "Targeted refinements to Australia's new merger control regime",
+          "permalink": "https://www.minterellison.com/articles/targeted-refinements-to-australias-new-merger-control-regime",
+          "dateISO": "2026-09-23",
+          "dateText": "23 September 2026",
+          "month": "September 2026",
+          "year": 2026,
+          "topic": "Mergers",
+          "topics": [
+            "Mergers"
+          ],
+          "teaser": "Parliament has passed refinements to Australia's new mandatory merger regime, replacing automatic voiding with court-supervised voiding, clarifying the control exemption, and introducing the ability to extend notifications before they become stale.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "MinterEllison",
+          "title": "Competition and Fair Work Legislation Amendment (Banning Unfair Non-Competes) exposure draft released",
+          "permalink": "https://www.minterellison.com/articles/competition-and-fair-work-legislation-amendment",
+          "dateISO": "2026-09-21",
+          "dateText": "21 September 2026",
+          "month": "September 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "The Federal Government has released an exposure draft of its legislation outlawing non-competes – the Competition and Fair Work Legislation Amendment (Banning Unfair Non-Competes) Bill 2026.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "MinterEllison",
           "title": "Contentious AI: AI and regulatory compliance – familiar risks, new frontiers",
           "permalink": "https://www.minterellison.com/articles/contentious-ai-and-regulatory-compliance-familiar-risks-new-frontiers",
           "dateISO": "2026-05-25",
@@ -1881,6 +1917,60 @@
             "Competition & Consumer"
           ],
           "teaser": "The Federal Government has released long-awaited draft laws to ban non-competes. We explore what the proposed changes mean for employers.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia Charts a New Course on AI Regulation and Policy",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-charts-a-new-course-on-ai-regulation-and-policy",
+          "dateISO": "2026-08-25",
+          "dateText": "25 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Recent developments in Australia indicate that AI-specific regulation is on the horizon and identify areas of law primed for AI-specific reform.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia: Three Things Every Tech Founder Must Nail (Part 2)",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-tech-founder-series",
+          "dateISO": "2026-08-13",
+          "dateText": "13 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Practical legal lessons for tech founders to help avoid disputes, regulatory headaches and costly mistakes as they scale.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "AI Governance Tracker",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/resources/ai-governance-tracker",
+          "dateISO": "2026-06-24",
+          "dateText": "24 June 2026",
+          "month": "June 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Our AI Governance Tracker is a regularly updated, practical tool that compares global AI regulations and key guiding principles.",
           "summary": "",
           "bullets": [],
           "overridden": false,
