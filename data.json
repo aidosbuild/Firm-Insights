@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-13T02:22:27.088Z",
-  "lastCheckedAt": "2026-10-13T02:22:27.088Z",
-  "recordCount": 179,
+  "generatedAt": "2026-10-13T12:28:33.016Z",
+  "lastCheckedAt": "2026-10-13T12:28:33.016Z",
+  "recordCount": 178,
   "firms": [
     {
       "name": "Addisons",
@@ -306,6 +306,24 @@
       "domestic": true,
       "manualOnly": false,
       "records": [
+        {
+          "firm": "Allens",
+          "title": "Food and beverage law 2026: Labels, supply chains and the new rules on selling to consumers",
+          "permalink": "https://www.allens.com.au/insights-news/explore/2026/food-beverage-law-2026/",
+          "dateISO": "2026-10-13",
+          "dateText": "13 October 2026",
+          "month": "October 2026",
+          "year": 2026,
+          "topic": "Consumer Law",
+          "topics": [
+            "Consumer Law"
+          ],
+          "teaser": "In this edition of the food and beverage law bulletin, our cross-disciplinary team explores the developments you should have on your radar including practical insights to help with identifying risk, strengthening resilience, and informed decision-making. ... Competition, Consumer & Regulatory Disputes & Investigations Employment, Industrial Relations & Safety Intellectual Property Technology, Media & Telecommunications",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Allens",
           "title": "Details released of proposed ban on post-employment restraints, no-poach and wage-fixing arrangements",
@@ -1924,60 +1942,6 @@
         },
         {
           "firm": "Baker McKenzie",
-          "title": "Australia Charts a New Course on AI Regulation and Policy",
-          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-charts-a-new-course-on-ai-regulation-and-policy",
-          "dateISO": "2026-08-25",
-          "dateText": "25 August 2026",
-          "month": "August 2026",
-          "year": 2026,
-          "topic": "Competition & Consumer",
-          "topics": [
-            "Competition & Consumer"
-          ],
-          "teaser": "Recent developments in Australia indicate that AI-specific regulation is on the horizon and identify areas of law primed for AI-specific reform.",
-          "summary": "",
-          "bullets": [],
-          "overridden": false,
-          "notes": ""
-        },
-        {
-          "firm": "Baker McKenzie",
-          "title": "Australia: Three Things Every Tech Founder Must Nail (Part 2)",
-          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-tech-founder-series",
-          "dateISO": "2026-08-13",
-          "dateText": "13 August 2026",
-          "month": "August 2026",
-          "year": 2026,
-          "topic": "Competition & Consumer",
-          "topics": [
-            "Competition & Consumer"
-          ],
-          "teaser": "Practical legal lessons for tech founders to help avoid disputes, regulatory headaches and costly mistakes as they scale.",
-          "summary": "",
-          "bullets": [],
-          "overridden": false,
-          "notes": ""
-        },
-        {
-          "firm": "Baker McKenzie",
-          "title": "AI Governance Tracker",
-          "permalink": "https://www.bakermckenzie.com/en/insight/publications/resources/ai-governance-tracker",
-          "dateISO": "2026-06-24",
-          "dateText": "24 June 2026",
-          "month": "June 2026",
-          "year": 2026,
-          "topic": "Competition & Consumer",
-          "topics": [
-            "Competition & Consumer"
-          ],
-          "teaser": "Our AI Governance Tracker is a regularly updated, practical tool that compares global AI regulations and key guiding principles.",
-          "summary": "",
-          "bullets": [],
-          "overridden": false,
-          "notes": ""
-        },
-        {
-          "firm": "Baker McKenzie",
           "title": "Australia: Scams Prevention – Draft Code and Rules Released",
           "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/06/australia-scams-prevention-draft-code-and-rules-released",
           "dateISO": "2026-06-17",
@@ -2121,6 +2085,25 @@
       "domestic": false,
       "manualOnly": false,
       "records": [
+        {
+          "firm": "Bird & Bird",
+          "title": "Australia: Important changes to new merger regime",
+          "permalink": "https://www.twobirds.com/en/insights/2026/australia/australia-important-changes-to-new-merger-regime",
+          "dateISO": "2026-10-13",
+          "dateText": "13 October 2026",
+          "month": "October 2026",
+          "year": 2026,
+          "topic": "Competition, Mergers",
+          "topics": [
+            "Competition",
+            "Mergers"
+          ],
+          "teaser": "",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Bird & Bird",
           "title": "Australia: Left on the shelf - ACCC opposes Coles acquisition of supermarket site in Kalgoorlie",
