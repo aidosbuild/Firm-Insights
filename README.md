@@ -10,7 +10,7 @@ no build step, the front end just reads a committed `data.json`.
 Scope: only articles dated **1 January 2026 onwards** are shown (configurable via
 the `START_DATE` env var in `scripts/scrape.mjs`).
 
-Live site: <https://aidangilling.github.io/firm-insights/>
+Live site: <https://aidosbuild.github.io/firm-insights/>
 
 ---
 
