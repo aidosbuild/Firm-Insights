@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-13T12:28:33.016Z",
-  "lastCheckedAt": "2026-10-13T12:28:33.016Z",
-  "recordCount": 178,
+  "generatedAt": "2026-10-13T19:49:43.198Z",
+  "lastCheckedAt": "2026-10-13T19:49:43.198Z",
+  "recordCount": 185,
   "firms": [
     {
       "name": "Addisons",
@@ -1942,6 +1942,114 @@
         },
         {
           "firm": "Baker McKenzie",
+          "title": "Australia Charts a New Course on AI Regulation and Policy",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-charts-a-new-course-on-ai-regulation-and-policy",
+          "dateISO": "2026-08-25",
+          "dateText": "25 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Recent developments in Australia indicate that AI-specific regulation is on the horizon and identify areas of law primed for AI-specific reform.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia: Three Things Every Tech Founder Must Nail (Part 2)",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-tech-founder-series",
+          "dateISO": "2026-08-13",
+          "dateText": "13 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Practical legal lessons for tech founders to help avoid disputes, regulatory headaches and costly mistakes as they scale.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia: Five Things Every Tech Founder Must Nail",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-five-things-every-tech-founder-must-nail",
+          "dateISO": "2026-07-28",
+          "dateText": "28 July 2026",
+          "month": "July 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Tech founders should address key employment law risks early to help avoid costly disputes, build a stronger foundation for growth, and set up for future divestment.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia: New Modern Slavery Offence Proposed",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-new-modern-slavery-offence-proposed",
+          "dateISO": "2026-07-20",
+          "dateText": "20 July 2026",
+          "month": "July 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Australia plans tougher modern slavery laws, including a new failure-to-prevent offence",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia: AI Workplace Change – Managing Risks without Regret",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-ai-workplace-change-managing-risks-without-regret",
+          "dateISO": "2026-07-17",
+          "dateText": "17 July 2026",
+          "month": "July 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "As AI transforms workplaces, employers must navigate redundancy, consultation and psychosocial risk obligations carefully",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia: Victorian Right to Work from Home",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-victorian-right-to-work-from-home",
+          "dateISO": "2026-07-14",
+          "dateText": "14 July 2026",
+          "month": "July 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Victorian Bill introduces an employee right to work from home.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
           "title": "Australia: Scams Prevention – Draft Code and Rules Released",
           "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/06/australia-scams-prevention-draft-code-and-rules-released",
           "dateISO": "2026-06-17",
@@ -2007,6 +2115,24 @@
             "Competition & Consumer"
           ],
           "teaser": "The 2026–27 Australian Federal Budget was released on 12 May 2026. This &ldquo;Budget Bite&rdquo; examines measures related to Australia's energy transition journey in this year's ...",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia: Victoria's Security of Payment regime overhauled",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/04/australia-victorias-security-of-payment-regime-overhauled",
+          "dateISO": "2026-04-30",
+          "dateText": "30 April 2026",
+          "month": "April 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Major amendments to Victoria&apos;s Security of Payment Act have started, reshaping payment claims, adjudication risk and security in construction projects.",
           "summary": "",
           "bullets": [],
           "overridden": false,
