@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-13T19:49:43.198Z",
-  "lastCheckedAt": "2026-10-13T19:49:43.198Z",
-  "recordCount": 185,
+  "generatedAt": "2026-10-14T00:04:48.964Z",
+  "lastCheckedAt": "2026-10-14T00:04:48.964Z",
+  "recordCount": 184,
   "firms": [
     {
       "name": "Addisons",
@@ -1978,42 +1978,6 @@
         },
         {
           "firm": "Baker McKenzie",
-          "title": "Australia: Five Things Every Tech Founder Must Nail",
-          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-five-things-every-tech-founder-must-nail",
-          "dateISO": "2026-07-28",
-          "dateText": "28 July 2026",
-          "month": "July 2026",
-          "year": 2026,
-          "topic": "Competition & Consumer",
-          "topics": [
-            "Competition & Consumer"
-          ],
-          "teaser": "Tech founders should address key employment law risks early to help avoid costly disputes, build a stronger foundation for growth, and set up for future divestment.",
-          "summary": "",
-          "bullets": [],
-          "overridden": false,
-          "notes": ""
-        },
-        {
-          "firm": "Baker McKenzie",
-          "title": "Australia: New Modern Slavery Offence Proposed",
-          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-new-modern-slavery-offence-proposed",
-          "dateISO": "2026-07-20",
-          "dateText": "20 July 2026",
-          "month": "July 2026",
-          "year": 2026,
-          "topic": "Competition & Consumer",
-          "topics": [
-            "Competition & Consumer"
-          ],
-          "teaser": "Australia plans tougher modern slavery laws, including a new failure-to-prevent offence",
-          "summary": "",
-          "bullets": [],
-          "overridden": false,
-          "notes": ""
-        },
-        {
-          "firm": "Baker McKenzie",
           "title": "Australia: AI Workplace Change – Managing Risks without Regret",
           "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-ai-workplace-change-managing-risks-without-regret",
           "dateISO": "2026-07-17",
@@ -2032,17 +1996,35 @@
         },
         {
           "firm": "Baker McKenzie",
-          "title": "Australia: Victorian Right to Work from Home",
-          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-victorian-right-to-work-from-home",
-          "dateISO": "2026-07-14",
-          "dateText": "14 July 2026",
+          "title": "Australia: Directors' Duties in Australia – FY27 Edition",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-directors-duties-in-australia-fy27-edition",
+          "dateISO": "2026-07-07",
+          "dateText": "7 July 2026",
           "month": "July 2026",
           "year": 2026,
           "topic": "Competition & Consumer",
           "topics": [
             "Competition & Consumer"
           ],
-          "teaser": "Victorian Bill introduces an employee right to work from home.",
+          "teaser": "Baker McKenzie&apos;s FY27 Directors&apos; Duties guide outlines key governance obligations and practical guidance on cyber, AI and environmental risks.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "AI Governance Tracker",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/resources/ai-governance-tracker",
+          "dateISO": "2026-06-24",
+          "dateText": "24 June 2026",
+          "month": "June 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Our AI Governance Tracker is a regularly updated, practical tool that compares global AI regulations and key guiding principles.",
           "summary": "",
           "bullets": [],
           "overridden": false,
