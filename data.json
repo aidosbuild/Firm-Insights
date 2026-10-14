@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T10:12:19.921Z",
-  "lastCheckedAt": "2026-10-14T10:12:19.921Z",
-  "recordCount": 178,
+  "generatedAt": "2026-10-14T18:03:06.404Z",
+  "lastCheckedAt": "2026-10-14T18:03:06.404Z",
+  "recordCount": 179,
   "firms": [
     {
       "name": "Addisons",
@@ -2773,6 +2773,25 @@
       "domestic": false,
       "manualOnly": false,
       "records": [
+        {
+          "firm": "Dentons",
+          "title": "Tax, FIRB and true sale: legal constraints shaping Australian data centre securitisation",
+          "permalink": "https://www.dentons.com/en/insights/articles/2026/october/15/legal-constraints-shaping-australian-data-centre-securitisation",
+          "dateISO": "2026-10-15",
+          "dateText": "15 October 2026",
+          "month": "October 2026",
+          "year": 2026,
+          "topic": "Mergers, ACCC",
+          "topics": [
+            "Mergers",
+            "ACCC"
+          ],
+          "teaser": "Australia: This article addresses a range of Australian-specific legal considerations that operate largely behind the scenes but can significantly influence transaction design for ABS and CMBS structures: state-based transfer duty and landholder duty regimes, foreign investment approvals under the Foreign Acquisition and Takeovers Act 1975 (Cth) (FATA), the reformed ACCC merger control regime and true sale characterisation. Together with the emerging federal AI framework discussed in the introductory article to this series, these considerations will shape how an Australian data centre securitisation is structured.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Dentons",
           "title": "Australia ESG Bulletin – April 2026",
