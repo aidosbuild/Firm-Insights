@@ -9,7 +9,7 @@
 // Relevance is decided by the shared competition/consumer filter.
 
 import { load } from "cheerio";
-import { fetchJson, fetchText, politeFetch, clean, sleep, REQUEST_DELAY_MS } from "../lib/shared.mjs";
+import { fetchJson, fetchText, politeFetch, clean, sleep, REQUEST_DELAY_MS, parseDateToISO } from "../lib/shared.mjs";
 
 const ORIGIN = "https://www.corrs.com.au";
 const SWIFTYPE =
@@ -86,13 +86,18 @@ async function fetchRecent(out, seen) {
   }
 }
 
-/** Read a Corrs article's publication date (ISO) from its JSON-LD. */
+/**
+ * Read a Corrs article's publication date (ISO): JSON-LD first, then the
+ * visible <p class="postDate">11 September 2026</p> (the July 2026 redesign
+ * dropped the JSON-LD). Section pages have neither and stay undated.
+ */
 async function fetchDateISO(url) {
   try {
     const res = await politeFetch(url);
     const html = await res.text();
     const m = /"datePublished"\s*:\s*"(\d{4}-\d{2}-\d{2})/.exec(html);
-    return m ? m[1] : null;
+    if (m) return m[1];
+    return parseDateToISO(load(html)("p.postDate").first().text());
   } catch {
     return null;
   }
@@ -107,8 +112,8 @@ async function mapPool(items, limit, fn) {
 }
 
 // Freshest items straight off the SSR listing (covers the index's ~4-month lag).
-// The listing has no dates, so we read each new article's JSON-LD date (cached
-// across runs via previousByUrl). These go through the shared keyword filter.
+// The listing has no dates, so we read each new article's date (cached across
+// runs via previousByUrl). These go through the shared keyword filter.
 async function fetchHomepage(out, seen, previousByUrl) {
   let html;
   try {
