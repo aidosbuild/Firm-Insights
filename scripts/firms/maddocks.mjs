@@ -5,8 +5,10 @@
 // insights page (passes Cloudflare, sets cookies), then do the CSRF + listing
 // partial POST IN-PAGE and parse the tiles. Filtered to the firm's "Competition,
 // Antitrust & Regulation" capability → include all (over-include).
-// Card: article.c-insight-tile → h1 a (title/url), span.uk-text-muted (date
-// DD/MM/YYYY), p.uk-text-muted-dark (teaser).
+// Card: article.c-insight-tile → h1 a (title/url), .uk-card-body
+// span.uk-text-teal-medium (date DD/MM/YYYY), p.uk-text-emphasis (teaser).
+// The old layout's span.uk-text-muted / p.uk-text-muted-dark are kept as
+// fallbacks. Not a bare .uk-text-teal-medium: the footer's author line uses it.
 
 import { withPage } from "../lib/browser.mjs";
 import { clean, parseDateToISO } from "../lib/shared.mjs";
@@ -53,8 +55,10 @@ async function fetchRecords() {
           out.push({
             title: txt(a),
             url,
-            date: txt(t.querySelector("span.uk-text-muted")),
-            teaser: txt(t.querySelector("p.uk-text-muted-dark")),
+            date: txt(t.querySelector(".uk-card-body span.uk-text-teal-medium")) ||
+              txt(t.querySelector("span.uk-text-muted")),
+            teaser: txt(t.querySelector("p.uk-text-emphasis")) ||
+              txt(t.querySelector("p.uk-text-muted-dark")),
           });
         });
         if (!added) break;
