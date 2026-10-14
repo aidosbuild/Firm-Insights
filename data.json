@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T11:43:24.132Z",
-  "lastCheckedAt": "2026-10-06T11:43:24.132Z",
-  "recordCount": 178,
+  "generatedAt": "2026-10-14T00:04:48.964Z",
+  "lastCheckedAt": "2026-10-14T00:04:48.964Z",
+  "recordCount": 184,
   "firms": [
     {
       "name": "Addisons",
@@ -306,6 +306,24 @@
       "domestic": true,
       "manualOnly": false,
       "records": [
+        {
+          "firm": "Allens",
+          "title": "Food and beverage law 2026: Labels, supply chains and the new rules on selling to consumers",
+          "permalink": "https://www.allens.com.au/insights-news/explore/2026/food-beverage-law-2026/",
+          "dateISO": "2026-10-13",
+          "dateText": "13 October 2026",
+          "month": "October 2026",
+          "year": 2026,
+          "topic": "Consumer Law",
+          "topics": [
+            "Consumer Law"
+          ],
+          "teaser": "In this edition of the food and beverage law bulletin, our cross-disciplinary team explores the developments you should have on your radar including practical insights to help with identifying risk, strengthening resilience, and informed decision-making. ... Competition, Consumer & Regulatory Disputes & Investigations Employment, Industrial Relations & Safety Intellectual Property Technology, Media & Telecommunications",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Allens",
           "title": "Details released of proposed ban on post-employment restraints, no-poach and wage-fixing arrangements",
@@ -1144,6 +1162,42 @@
       "records": [
         {
           "firm": "MinterEllison",
+          "title": "Targeted refinements to Australia's new merger control regime",
+          "permalink": "https://www.minterellison.com/articles/targeted-refinements-to-australias-new-merger-control-regime",
+          "dateISO": "2026-09-23",
+          "dateText": "23 September 2026",
+          "month": "September 2026",
+          "year": 2026,
+          "topic": "Mergers",
+          "topics": [
+            "Mergers"
+          ],
+          "teaser": "Parliament has passed refinements to Australia's new mandatory merger regime, replacing automatic voiding with court-supervised voiding, clarifying the control exemption, and introducing the ability to extend notifications before they become stale.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "MinterEllison",
+          "title": "Competition and Fair Work Legislation Amendment (Banning Unfair Non-Competes) exposure draft released",
+          "permalink": "https://www.minterellison.com/articles/competition-and-fair-work-legislation-amendment",
+          "dateISO": "2026-09-21",
+          "dateText": "21 September 2026",
+          "month": "September 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "The Federal Government has released an exposure draft of its legislation outlawing non-competes – the Competition and Fair Work Legislation Amendment (Banning Unfair Non-Competes) Bill 2026.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "MinterEllison",
           "title": "Contentious AI: AI and regulatory compliance – familiar risks, new frontiers",
           "permalink": "https://www.minterellison.com/articles/contentious-ai-and-regulatory-compliance-familiar-risks-new-frontiers",
           "dateISO": "2026-05-25",
@@ -1888,6 +1942,24 @@
         },
         {
           "firm": "Baker McKenzie",
+          "title": "Australia Charts a New Course on AI Regulation and Policy",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-charts-a-new-course-on-ai-regulation-and-policy",
+          "dateISO": "2026-08-25",
+          "dateText": "25 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Recent developments in Australia indicate that AI-specific regulation is on the horizon and identify areas of law primed for AI-specific reform.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
           "title": "Australia: Three Things Every Tech Founder Must Nail (Part 2)",
           "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-tech-founder-series",
           "dateISO": "2026-08-13",
@@ -1899,24 +1971,6 @@
             "Competition & Consumer"
           ],
           "teaser": "Practical legal lessons for tech founders to help avoid disputes, regulatory headaches and costly mistakes as they scale.",
-          "summary": "",
-          "bullets": [],
-          "overridden": false,
-          "notes": ""
-        },
-        {
-          "firm": "Baker McKenzie",
-          "title": "Australia: New Modern Slavery Offence Proposed",
-          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-new-modern-slavery-offence-proposed",
-          "dateISO": "2026-07-20",
-          "dateText": "20 July 2026",
-          "month": "July 2026",
-          "year": 2026,
-          "topic": "Competition & Consumer",
-          "topics": [
-            "Competition & Consumer"
-          ],
-          "teaser": "Australia plans tougher modern slavery laws, including a new failure-to-prevent offence",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -1953,6 +2007,24 @@
             "Competition & Consumer"
           ],
           "teaser": "Baker McKenzie&apos;s FY27 Directors&apos; Duties guide outlines key governance obligations and practical guidance on cyber, AI and environmental risks.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "AI Governance Tracker",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/resources/ai-governance-tracker",
+          "dateISO": "2026-06-24",
+          "dateText": "24 June 2026",
+          "month": "June 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Our AI Governance Tracker is a regularly updated, practical tool that compares global AI regulations and key guiding principles.",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -2121,6 +2193,25 @@
       "domestic": false,
       "manualOnly": false,
       "records": [
+        {
+          "firm": "Bird & Bird",
+          "title": "Australia: Important changes to new merger regime",
+          "permalink": "https://www.twobirds.com/en/insights/2026/australia/australia-important-changes-to-new-merger-regime",
+          "dateISO": "2026-10-13",
+          "dateText": "13 October 2026",
+          "month": "October 2026",
+          "year": 2026,
+          "topic": "Competition, Mergers",
+          "topics": [
+            "Competition",
+            "Mergers"
+          ],
+          "teaser": "",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Bird & Bird",
           "title": "Australia: Left on the shelf - ACCC opposes Coles acquisition of supermarket site in Kalgoorlie",
@@ -3345,6 +3436,24 @@
       "domestic": true,
       "manualOnly": false,
       "records": [
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Australia’s merger control regime: What the latest amendments mean for businesses",
+          "permalink": "https://mk.com.au/australia-merger-control-regime-september-2026-amendments/",
+          "dateISO": "2026-10-08",
+          "dateText": "8 October 2026",
+          "month": "October 2026",
+          "year": 2026,
+          "topic": "Mergers",
+          "topics": [
+            "Mergers"
+          ],
+          "teaser": "Australia’s mandatory merger control regime commenced on 1 January 2026 and is now an important consideration for businesses contemplating acquisitions, mergers and consolidations. On 16 September 2026, Schedule 4 of the Treasury Laws Amendment…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Macpherson Kelley",
           "title": "Australia’s unfair trading practices reforms have passed: Businesses have 12 months to get ready",
