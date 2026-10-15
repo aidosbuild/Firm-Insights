@@ -29,6 +29,9 @@ async function fetchRecords() {
   const push = (rec) => {
     if (rec && !seen.has(rec.url)) { seen.add(rec.url); out.push(rec); }
   };
+  // Failures swallowed below are reported to the runner (it records lastError):
+  // Mills Oakley sometimes answers CI with a block page instead of JSON.
+  const errors = [];
 
   // 1) The firm's Competition/Regulatory practice — include all.
   try {
@@ -36,7 +39,7 @@ async function fetchRecords() {
       `${ORIGIN}/wp-json/wp/v2/insights?expertise=6&per_page=100&_fields=id,date,link,title,excerpt`
     );
     (comp || []).forEach((p) => push(mapPost(p, { preFiltered: true, defaultTopics: ["Competition & Consumer"] })));
-  } catch { /* keep going */ }
+  } catch (err) { errors.push(`practice feed: ${err.message}`); /* keep going */ }
 
   // 2) Recent insights across all practices — keyword filter catches the rest.
   for (let page = 1; page <= 2; page++) {
@@ -45,11 +48,12 @@ async function fetchRecords() {
       batch = await fetchJson(
         `${ORIGIN}/wp-json/wp/v2/insights?per_page=100&page=${page}&orderby=date&order=desc&_fields=id,date,link,title,excerpt`
       );
-    } catch { break; }
+    } catch (err) { errors.push(`recent page ${page}: ${err.message}`); break; }
     if (!Array.isArray(batch) || batch.length === 0) break;
     batch.forEach((p) => push(mapPost(p, {})));
     if (batch.length < 100) break;
   }
+  out.errors = errors;
   return out;
 }
 

@@ -91,6 +91,11 @@ by URL, merges the manual layer, and writes `data.json` shaped as
 
 - A firm that **errors** keeps its previous records rather than blanking — one
   broken firm never empties the site.
+- So that a kept list can't go stale unnoticed, each firm in `data.json` has
+  `lastOkAt` (when it last returned articles), `keptPrevious` and `lastError`.
+  The workflow's last step (`scripts/check-stale.mjs`, after the commit) fails
+  the run, and GitHub emails, when a scraped firm hasn't returned articles for
+  over 7 days.
 - `data.json` is only rewritten when the data actually changed.
 - The front end shows an amber staleness banner if the data is > 24h old.
 

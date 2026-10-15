@@ -58,3 +58,8 @@ jobs:
             git push
             echo "Committed and pushed refreshed data.json."
           fi
+
+      # After the commit, so fresh data still deploys. Fails the run (and GitHub
+      # emails) when a firm hasn't returned articles for over 7 days.
+      - name: Check for firms that have stopped updating
+        run: node scripts/check-stale.mjs

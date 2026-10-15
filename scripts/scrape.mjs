@@ -9,6 +9,11 @@
 //    it previously had records, we KEEP that firm's previous records.
 //  - We only write data.json when something actually changed.
 //  - Per-firm counts are logged (found / kept-AU / kept-relevant / dropped).
+//  - Each firm carries a status — lastOkAt (when it last returned articles),
+//    keptPrevious, lastError — so a firm that keeps failing is visible
+//    (scripts/check-stale.mjs fails the workflow after 7 days). An adapter may
+//    attach `errors` (strings) to the array it returns, for failures it
+//    swallowed while still returning something.
 //
 // Usage: node scripts/scrape.mjs
 // Exit codes: 0 = success (written or unchanged), 1 = fatal (last good kept).
@@ -243,6 +248,7 @@ function prevFirmRecords(previous, name) {
 }
 
 async function main() {
+  const runAt = new Date().toISOString();
   const previous = await loadPrevious();
   const manual = await loadManual();
 
@@ -256,18 +262,25 @@ async function main() {
     };
     let records = null;
     let usedPrevious = false;
+    let lastError = null;
 
     // Previous records for this firm, indexed by URL — passed to the adapter so
     // it can reuse cached fields (e.g. dates that need a per-article fetch).
     const prev = prevFirmRecords(previous, adapter.name);
     const previousByUrl = new Map(prev.map((r) => [r.permalink, r]));
+    const prevFirm = previous?.firms?.find((x) => x.name === adapter.name);
 
     try {
       const raw = await adapter.fetchRecords({ previousByUrl });
+      if (raw?.errors?.length) {
+        lastError = raw.errors.join("; ");
+        console.warn(`  [${adapter.name}] partial errors: ${lastError}`);
+      }
       const normalised = (raw || []).map((r) => normaliseRecord(r, adapter));
       records = filterRecords(normalised, adapter, counters);
     } catch (err) {
       console.warn(`  [${adapter.name}] ERROR: ${err.message}`);
+      lastError = err.message;
       records = null;
     }
 
@@ -286,10 +299,13 @@ async function main() {
     );
     if (records === null || (records.length === 0 && prevScraped.length > 0)) {
       usedPrevious = true;
+      lastError = lastError || "Returned no articles; kept the previous list";
       records = [...manualRecs, ...prevScraped];
     } else {
       records = [...manualRecs, ...records];
     }
+    // OK = this run's own scrape produced articles (manual entries don't count).
+    const scrapedOk = !usedPrevious && records.length > manualRecs.length;
 
     records = sortNewestFirst(dedupeByUrl(records)).map(stripInternals);
     totalRecords += records.length;
@@ -301,6 +317,9 @@ async function main() {
       sourceUrl: adapter.sourceUrl,
       domestic: adapter.domestic === true,
       manualOnly: adapter.manualOnly === true,
+      lastOkAt: scrapedOk ? runAt : prevFirm?.lastOkAt ?? null,
+      keptPrevious: usedPrevious,
+      lastError,
       records,
     });
 
