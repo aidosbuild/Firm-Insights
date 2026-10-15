@@ -9,6 +9,10 @@
 import { fetchJson, stripHtml, clean } from "../lib/shared.mjs";
 
 const ORIGIN = "https://www.millsoakley.com.au";
+// Mills Oakley's firewall refuses the shared Chrome-style user agent (HTTP 403)
+// but lets an honest one through (checked 15 Oct 2026; the generic hub's
+// honest agent gets through too), so this firm's requests say who they are.
+const HONEST = { headers: { "User-Agent": "FirmInsights/1.0 (+https://firm-insights.pages.dev)" } };
 
 function mapPost(p, extra) {
   const title = stripHtml(p?.title?.rendered);
@@ -36,7 +40,8 @@ async function fetchRecords() {
   // 1) The firm's Competition/Regulatory practice — include all.
   try {
     const comp = await fetchJson(
-      `${ORIGIN}/wp-json/wp/v2/insights?expertise=6&per_page=100&_fields=id,date,link,title,excerpt`
+      `${ORIGIN}/wp-json/wp/v2/insights?expertise=6&per_page=100&_fields=id,date,link,title,excerpt`,
+      HONEST
     );
     (comp || []).forEach((p) => push(mapPost(p, { preFiltered: true, defaultTopics: ["Competition & Consumer"] })));
   } catch (err) { errors.push(`practice feed: ${err.message}`); /* keep going */ }
@@ -46,7 +51,8 @@ async function fetchRecords() {
     let batch;
     try {
       batch = await fetchJson(
-        `${ORIGIN}/wp-json/wp/v2/insights?per_page=100&page=${page}&orderby=date&order=desc&_fields=id,date,link,title,excerpt`
+        `${ORIGIN}/wp-json/wp/v2/insights?per_page=100&page=${page}&orderby=date&order=desc&_fields=id,date,link,title,excerpt`,
+        HONEST
       );
     } catch (err) { errors.push(`recent page ${page}: ${err.message}`); break; }
     if (!Array.isArray(batch) || batch.length === 0) break;
