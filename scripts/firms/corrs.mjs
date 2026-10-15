@@ -129,11 +129,14 @@ async function fetchHomepage(out, seen, previousByUrl) {
     if (!/\/insights\/[a-z0-9-]{6,}/i.test(href)) return; // article, not hub
     const url = href.startsWith("http") ? href : ORIGIN + href;
     if (seen.has(url)) return;
-    const title = clean(a.text());
+    // The card's bold title line, not the link's whole text: since the July
+    // 2026 redesign the link also holds an uppercase type label ("article").
+    const title = clean(a.find("p.uk-text-bold").first().text()) || clean(a.text());
     if (!title || title.length < 12) return;
     seen.add(url);
     const card = a.closest(".uk-card, li, article, div");
-    const teaser = clean(card.find("p").not(".uk-text-uppercase").first().text());
+    // Skip the label and the title line (new cards have no teaser at all).
+    const teaser = clean(card.find("p").not(".uk-text-uppercase").not(".uk-text-bold").first().text());
     fresh.push({ title, url, teaser });
   });
 
