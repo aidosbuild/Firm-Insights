@@ -10,6 +10,9 @@
 
 import { load } from "cheerio";
 import { fetchJson, fetchText, politeFetch, clean, sleep, REQUEST_DELAY_MS, parseDateToISO } from "../lib/shared.mjs";
+import { withPage } from "../lib/browser.mjs";
+
+const short = (err) => String((err && err.message) || err).split(" for ")[0];
 
 const ORIGIN = "https://www.corrs.com.au";
 const SWIFTYPE =
@@ -91,15 +94,19 @@ async function fetchRecent(out, seen) {
  * visible <p class="postDate">11 September 2026</p> (the July 2026 redesign
  * dropped the JSON-LD). Section pages have neither and stay undated.
  */
+function dateFromHtml(html) {
+  const m = /"datePublished"\s*:\s*"(\d{4}-\d{2}-\d{2})/.exec(html);
+  if (m) return m[1];
+  return parseDateToISO(load(html)("p.postDate").first().text());
+}
+
+/** ISO date, null when the page has none, undefined when the page was refused. */
 async function fetchDateISO(url) {
   try {
     const res = await politeFetch(url);
-    const html = await res.text();
-    const m = /"datePublished"\s*:\s*"(\d{4}-\d{2}-\d{2})/.exec(html);
-    if (m) return m[1];
-    return parseDateToISO(load(html)("p.postDate").first().text());
+    return dateFromHtml(await res.text());
   } catch {
-    return null;
+    return undefined;
   }
 }
 
@@ -114,12 +121,22 @@ async function mapPool(items, limit, fn) {
 // Freshest items straight off the SSR listing (covers the index's ~4-month lag).
 // The listing has no dates, so we read each new article's date (cached across
 // runs via previousByUrl). These go through the shared keyword filter.
-async function fetchHomepage(out, seen, previousByUrl) {
+// GitHub's servers are sometimes refused plain requests (Oct 2026: the live
+// site stopped finding these while a normal connection still did), so a
+// refused page falls back to the workflow's headless browser, and refusals are
+// reported (lastError) rather than swallowed.
+async function fetchHomepage(out, seen, previousByUrl, errors) {
   let html;
   try {
     html = await fetchText(`${ORIGIN}/insights`);
-  } catch {
-    return;
+  } catch (err) {
+    errors.push(`insights page: ${short(err)}`);
+    try {
+      html = await withPage(`${ORIGIN}/insights`, (page) => page.content());
+    } catch (err2) {
+      errors.push(`insights page (browser): ${short(err2)}`);
+      return;
+    }
   }
   const $ = load(html);
   const fresh = [];
@@ -140,19 +157,41 @@ async function fetchHomepage(out, seen, previousByUrl) {
     fresh.push({ title, url, teaser });
   });
 
+  const refused = [];
   await mapPool(fresh, 6, async (it) => {
     const prev = previousByUrl && previousByUrl.get(it.url);
-    it.dateISO = prev && prev.dateISO ? prev.dateISO : await fetchDateISO(it.url);
+    if (prev && prev.dateISO) { it.dateISO = prev.dateISO; return; }
+    const d = await fetchDateISO(it.url);
+    if (d === undefined) refused.push(it);
+    else it.dateISO = d;
   });
+  if (refused.length) {
+    errors.push(`${refused.length} article page(s) refused; used the headless browser`);
+    try {
+      await withPage(`${ORIGIN}/insights`, async (page) => {
+        for (const it of refused) {
+          const h = await page.evaluate(async (u) => {
+            const r = await fetch(u);
+            return r.ok ? r.text() : "";
+          }, it.url);
+          it.dateISO = h ? dateFromHtml(h) : null;
+        }
+      });
+    } catch (err) {
+      errors.push(`article pages (browser): ${short(err)}`);
+    }
+  }
   for (const it of fresh) out.push(it);
 }
 
 async function fetchRecords({ previousByUrl } = {}) {
   const out = [];
   const seen = new Set();
+  const errors = [];
   await fetchByCapability(out, seen);
   await fetchRecent(out, seen);
-  await fetchHomepage(out, seen, previousByUrl);
+  await fetchHomepage(out, seen, previousByUrl, errors);
+  out.errors = errors;
   return out;
 }
 

@@ -8,6 +8,7 @@
 // Fields: Results[].Title / AbsoluteUrl / ArticleDate ("DD.MM.YYYY") / Summary.
 
 import { fetchText, fetchJson, clean } from "../lib/shared.mjs";
+import { withPage } from "../lib/browser.mjs";
 
 const ORIGIN = "https://www.minterellison.com";
 const PRACTICE_URL = `${ORIGIN}/competition-consumer-and-regulation`;
@@ -26,24 +27,51 @@ function isoFromDots(s) {
   return `${m[3]}-${m[2]}-${m[1]}`;
 }
 
-async function fetchRecords() {
-  // 1) scrape the fresh JWT (data1) + page URL (data2)
-  const html = await fetchText(PRACTICE_URL);
+/** The fresh JWT (data1) + page URL (data2) minted into the practice page. */
+function readJwt(html) {
   const d1 = /<div[^>]*id="dynamicdata1"[^>]*>([^<]+)<\/div>/i.exec(html);
   const d2 = /<div[^>]*id="dynamicdata2"[^>]*>([^<]+)<\/div>/i.exec(html);
   if (!d1) throw new Error("MinterEllison: could not read data1 JWT");
-  const data1 = clean(d1[1]);
-  const data2 = clean(d2 ? d2[1] : PRACTICE_URL);
+  return { data1: clean(d1[1]), data2: clean(d2 ? d2[1] : PRACTICE_URL) };
+}
 
-  // 2) query the practice-filtered feed (l=1000 returns the whole set)
+/** The practice-filtered feed (l=1000 returns the whole set). */
+function apiUrl({ data1, data2 }) {
   const params = new URLSearchParams({
     itemid: GRID.itemid, s: GRID.s, f: GRID.f, searchglobal: GRID.searchglobal,
     q: "", o: "", x: "", searchtype: "", l: "1000", start: "0",
     data1, data2,
   });
-  const json = await fetchJson(`${API}?${params.toString()}`, {
-    headers: { "X-Requested-With": "XMLHttpRequest", Referer: PRACTICE_URL },
+  return `${API}?${params.toString()}`;
+}
+
+/** The same two requests, made from inside the workflow's headless browser. */
+function viaBrowser() {
+  return withPage(PRACTICE_URL, async (page) => {
+    const url = apiUrl(readJwt(await page.content()));
+    return page.evaluate(async (u) => {
+      const r = await fetch(u, { headers: { Accept: "application/json", "X-Requested-With": "XMLHttpRequest" } });
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return r.json();
+    }, url);
   });
+}
+
+async function fetchRecords() {
+  // GitHub's servers get HTTP 403 from minterellison.com (Oct 2026, by IP: a
+  // normal connection still gets through), so a refused plain request falls
+  // back to the headless browser. The refusal is reported (lastError).
+  const errors = [];
+  let json;
+  try {
+    const html = await fetchText(PRACTICE_URL);
+    json = await fetchJson(apiUrl(readJwt(html)), {
+      headers: { "X-Requested-With": "XMLHttpRequest", Referer: PRACTICE_URL },
+    });
+  } catch (err) {
+    errors.push(`plain request: ${String(err.message).split(" for ")[0]}; used the headless browser`);
+    json = await viaBrowser();
+  }
   const results = Array.isArray(json?.Results) ? json.Results : [];
   const out = [];
   const seen = new Set();
@@ -63,6 +91,7 @@ async function fetchRecords() {
       defaultTopics: ["Competition & Consumer"],
     });
   }
+  out.errors = errors;
   return out;
 }
 
