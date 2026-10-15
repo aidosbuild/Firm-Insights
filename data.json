@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T18:03:06.404Z",
-  "lastCheckedAt": "2026-10-14T23:37:13.128Z",
-  "recordCount": 179,
+  "generatedAt": "2026-10-15T09:36:13.853Z",
+  "lastCheckedAt": "2026-10-15T09:36:13.853Z",
+  "recordCount": 204,
   "firms": [
     {
       "name": "Addisons",
@@ -14,6 +14,9 @@
       "sourceUrl": "https://addisons.com/insights/",
       "domestic": true,
       "manualOnly": false,
+      "lastOkAt": "2026-10-15T09:33:42.305Z",
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
         {
           "firm": "Addisons",
@@ -305,6 +308,9 @@
       "sourceUrl": "https://www.allens.com.au/insights-news/",
       "domestic": true,
       "manualOnly": false,
+      "lastOkAt": "2026-10-15T09:33:42.305Z",
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
         {
           "firm": "Allens",
@@ -560,6 +566,9 @@
       "sourceUrl": "https://www.mallesons.com/au/en/insights/latest-thinking.html?page=1",
       "domestic": true,
       "manualOnly": false,
+      "lastOkAt": "2026-10-15T09:33:42.305Z",
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
         {
           "firm": "Mallesons",
@@ -755,6 +764,9 @@
       "sourceUrl": "https://www.gtlaw.com.au/insights",
       "domestic": true,
       "manualOnly": false,
+      "lastOkAt": "2026-10-15T09:33:42.305Z",
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
         {
           "firm": "Gilbert + Tobin",
@@ -1159,6 +1171,9 @@
       "sourceUrl": "https://www.minterellison.com/competition-consumer-and-regulation",
       "domestic": true,
       "manualOnly": false,
+      "lastOkAt": null,
+      "keptPrevious": true,
+      "lastError": "HTTP 403 for https://www.minterellison.com/competition-consumer-and-regulation",
       "records": [
         {
           "firm": "MinterEllison",
@@ -1245,6 +1260,9 @@
       "sourceUrl": "https://www.claytonutz.com/insights",
       "domestic": true,
       "manualOnly": false,
+      "lastOkAt": "2026-10-15T09:33:42.305Z",
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
         {
           "firm": "Clayton Utz",
@@ -1595,6 +1613,9 @@
       "sourceUrl": "https://www.ashurstperkinscoie.com/en/insights/all-insights/",
       "domestic": false,
       "manualOnly": false,
+      "lastOkAt": "2026-10-15T09:33:42.305Z",
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
         {
           "firm": "Ashurst",
@@ -1921,6 +1942,9 @@
       "sourceUrl": "https://www.bakermckenzie.com/en/insight",
       "domestic": false,
       "manualOnly": false,
+      "lastOkAt": "2026-10-15T09:33:42.305Z",
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
         {
           "firm": "Baker McKenzie",
@@ -2084,6 +2108,9 @@
       "sourceUrl": "https://www.twobirds.com/en/insights",
       "domestic": false,
       "manualOnly": false,
+      "lastOkAt": "2026-10-15T09:33:42.305Z",
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
         {
           "firm": "Bird & Bird",
@@ -2287,6 +2314,9 @@
       "sourceUrl": "https://www.hsfkramer.com/insights/insights-listing",
       "domestic": false,
       "manualOnly": true,
+      "lastOkAt": null,
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
         {
           "firm": "Herbert Smith Freehills Kramer",
@@ -2393,23 +2423,62 @@
         "color": "#06839a",
         "logo": "assets/logos/gadens.png"
       },
-      "sourceUrl": "https://www.gadens.com/latest-insights/",
+      "sourceUrl": "https://www.gadens.com/insights",
       "domestic": true,
       "manualOnly": false,
+      "lastOkAt": "2026-10-15T09:33:42.305Z",
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
         {
           "firm": "Gadens",
-          "title": "OAIC sweep highlights ad-tech privacy risks: Determinations against Medmate and Monash IVF’s use of tracking pixels",
-          "permalink": "https://www.gadens.com/legal-insights/oaic-sweep-highlights-ad-tech-privacy-risks-determinations-against-medmate-and-monash-ivfs-use-of-tracking-pixels/",
-          "dateISO": "2026-07-07",
-          "dateText": "7 July 2026",
-          "month": "July 2026",
+          "title": "Australian Government proposes significant reforms to non-competes and labour market competition",
+          "permalink": "https://www.gadens.com/insights/australian-government-proposes-significant-reforms-to-non-competes-and-labour-market-competition",
+          "dateISO": "2026-09-11",
+          "dateText": "11 September 2026",
+          "month": "September 2026",
+          "year": 2026,
+          "topic": "Cartel",
+          "topics": [
+            "Cartel"
+          ],
+          "teaser": "This article examines the Australian Government’s proposed reforms to labour market competition and post-employment restraints, including new cartel prohibitions on no-poach and wage-fixing arrangements, restrictions on non-compete clauses, and",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Gadens",
+          "title": "Tranche 2 Privacy Act Reforms: What you need to know",
+          "permalink": "https://www.gadens.com/insights/tranche-2-privacy-reforms-key-changes",
+          "dateISO": "2026-09-09",
+          "dateText": "9 September 2026",
+          "month": "September 2026",
           "year": 2026,
           "topic": "Competition & Consumer",
           "topics": [
             "Competition & Consumer"
           ],
-          "teaser": "OAIC sweep highlights ad-tech privacy risks: determinations against Medmate and Monash IVF’s use of tracking",
+          "teaser": "This article examines the Australian Government’s proposed Privacy Act Tranche 2 reforms, outlining major changes to personal information handling, consent, direct marketing, data breach reporting and privacy governance that will significantly",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Gadens",
+          "title": "Government announces AI consumer safety priorities",
+          "permalink": "https://www.gadens.com/insights/government-announces-ai-consumer-safety-priorities",
+          "dateISO": "2026-08-05",
+          "dateText": "5 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Consumer Law",
+          "topics": [
+            "Consumer Law"
+          ],
+          "teaser": "This article outlines the Australian Government’s AI consumer safety priorities, highlighting proposed reforms across digital duty of care, privacy, consumer protection, workplace AI and automated decision-making, and the implications for",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -2418,34 +2487,17 @@
         {
           "firm": "Gadens",
           "title": "ACCC blocks Coles’ proposed Kalgoorlie supermarket: Implications for shopping centre developers, owners and managers",
-          "permalink": "https://www.gadens.com/legal-insights/accc-blocks-coles-proposed-kalgoorlie-supermarket-implications-for-shopping-centre-developers-owners-and-managers/",
+          "permalink": "https://www.gadens.com/insights/accc-blocks-coles-proposed-kalgoorlie-supermarket-implications-for-shopping-centre-developers,-owners-and-managers",
           "dateISO": "2026-07-06",
           "dateText": "6 July 2026",
           "month": "July 2026",
           "year": 2026,
-          "topic": "ACCC",
+          "topic": "Mergers, ACCC",
           "topics": [
+            "Mergers",
             "ACCC"
           ],
-          "teaser": "The ACCC has determined that Coles must not put into effect its proposed acquisition of",
-          "summary": "",
-          "bullets": [],
-          "overridden": false,
-          "notes": ""
-        },
-        {
-          "firm": "Gadens",
-          "title": "Game of chance: July 2026 permit fee changes",
-          "permalink": "https://www.gadens.com/legal-insights/game-of-chance-july-2026-permit-fee-changes/",
-          "dateISO": "2026-07-06",
-          "dateText": "6 July 2026",
-          "month": "July 2026",
-          "year": 2026,
-          "topic": "Competition & Consumer",
-          "topics": [
-            "Competition & Consumer"
-          ],
-          "teaser": "Australian trade promotion regulators have increased permit application fees, effective 1 July 2026. Here is",
+          "teaser": "The ACCC’s decision to block Coles’ proposed Kalgoorlie supermarket highlights increased regulatory scrutiny of supermarket leasing and development deals under Australia’s new merger regime, creating important considerations for shopping",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -2454,16 +2506,35 @@
         {
           "firm": "Gadens",
           "title": "Small businesses as the next frontier: Treasury consults on extending the unfair trading ban",
-          "permalink": "https://www.gadens.com/legal-insights/small-businesses-as-the-next-frontier-treasury-consults-on-extending-the-unfair-trading-ban/",
+          "permalink": "https://www.gadens.com/insights/small-businesses-as-the-next-frontier-treasury-consults-on-extending-the-unfair-trading-ban",
           "dateISO": "2026-06-15",
           "dateText": "15 June 2026",
           "month": "June 2026",
           "year": 2026,
-          "topic": "Unfair Trading",
+          "topic": "Consumer Law, Unfair Trading",
           "topics": [
+            "Consumer Law",
             "Unfair Trading"
           ],
-          "teaser": "The Federal Government has released a consultation paper examining whether the forthcoming unfair trading practices",
+          "teaser": "The Federal Government is consulting on extending Australia’s proposed unfair trading practices regime to protect small businesses and franchisees, signalling a significant expansion of the Australian Consumer Law and potential new obligations for",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Gadens",
+          "title": "Embedded networks: AER proposes further reform of exemptions framework",
+          "permalink": "https://www.gadens.com/insights/embedded-networks-aer-proposes-further-reform-of-exemptions-framework",
+          "dateISO": "2026-06-02",
+          "dateText": "2 June 2026",
+          "month": "June 2026",
+          "year": 2026,
+          "topic": "Consumer Law",
+          "topics": [
+            "Consumer Law"
+          ],
+          "teaser": "The AER’s proposed reforms to the embedded networks exemptions framework seek to align regulation with emerging energy market changes, reduce regulatory burden and strengthen transparency and consumer protections for embedded network participants.",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -2472,16 +2543,17 @@
         {
           "firm": "Gadens",
           "title": "Coordination in a crisis: ACCC receives extended authorisation powers",
-          "permalink": "https://www.gadens.com/legal-insights/coordination-in-a-crisis-accc-receives-extended-authorisation-powers/",
+          "permalink": "https://www.gadens.com/insights/coordination-in-a-crisis-accc-receives-extended-authorisation-powers",
           "dateISO": "2026-05-29",
           "dateText": "29 May 2026",
           "month": "May 2026",
           "year": 2026,
-          "topic": "ACCC",
+          "topic": "Competition, ACCC",
           "topics": [
+            "Competition",
             "ACCC"
           ],
-          "teaser": "On 13 May 2026, and with limited prior notice, the Federal Government introduced into the",
+          "teaser": "The Competition and Consumer Amendment (Responding to Exceptional Circumstances) Act 2026 expands the ACCC’s powers to authorise competitor coordination during crises through a streamlined regime, enabling faster responses to significant economic",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -2490,16 +2562,17 @@
         {
           "firm": "Gadens",
           "title": "Consumer Express | May 2026 Edition",
-          "permalink": "https://www.gadens.com/legal-insights/consumer-express-may-2026-edition/",
-          "dateISO": "2026-05-27",
-          "dateText": "27 May 2026",
+          "permalink": "https://www.gadens.com/insights/consumer-express-may-2026-edition",
+          "dateISO": "2026-05-28",
+          "dateText": "28 May 2026",
           "month": "May 2026",
           "year": 2026,
-          "topic": "Consumer Law",
+          "topic": "Mergers, Unfair Trading",
           "topics": [
-            "Consumer Law"
+            "Mergers",
+            "Unfair Trading"
           ],
-          "teaser": "In the May 2026 edition of Consumer Express, we unpack the legal developments most relevant",
+          "teaser": "Gadens’ Consumer Express – May 2026 edition provides a comprehensive overview of key legal developments shaping the consumer and retail landscape, including unfair trading reforms, merger control, digital regulation and evolving compliance risks",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -2508,17 +2581,17 @@
         {
           "firm": "Gadens",
           "title": "ACCC v Coles: When ‘Was/Now’ pricing crosses the line",
-          "permalink": "https://www.gadens.com/legal-insights/accc-v-coles-when-was-now-pricing-crosses-the-line/",
+          "permalink": "https://www.gadens.com/insights/accc-v-coles-when-wasnow-pricing-crosses-the-line",
           "dateISO": "2026-05-25",
           "dateText": "25 May 2026",
           "month": "May 2026",
           "year": 2026,
-          "topic": "Competition, ACCC",
+          "topic": "ACCC, Consumer Law",
           "topics": [
-            "Competition",
-            "ACCC"
+            "ACCC",
+            "Consumer Law"
           ],
-          "teaser": "The Federal Court’s recent judgment in Australian Competition and Consumer Commission v Coles Supermarkets Australia",
+          "teaser": "The ACCC v Coles case highlights how misleading ‘Was/Now’ pricing can breach Australian Consumer Law, clarifying when discount claims cross the line into deceptive conduct.",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -2527,9 +2600,9 @@
         {
           "firm": "Gadens",
           "title": "Doubled maximum penalties for competition and consumer law breaches raise compliance stakes",
-          "permalink": "https://www.gadens.com/legal-insights/doubled-maximum-penalties-for-competition-and-consumer-law-breaches-raise-compliance-stakes/",
-          "dateISO": "2026-05-21",
-          "dateText": "21 May 2026",
+          "permalink": "https://www.gadens.com/insights/changes-to-enforcement-powers-nsw-supreme-court-decision-affects-the-atos-ability-to-recover-tax-debts2",
+          "dateISO": "2026-05-22",
+          "dateText": "22 May 2026",
           "month": "May 2026",
           "year": 2026,
           "topic": "Competition, Consumer Law, Enforcement & Penalties",
@@ -2538,7 +2611,7 @@
             "Consumer Law",
             "Enforcement & Penalties"
           ],
-          "teaser": "In response to rising fuel prices, the Federal Government has significantly increased the financial consequences",
+          "teaser": "Recent increases to maximum penalties for competition and consumer law breaches significantly raise compliance risks for businesses, reinforcing the need for stronger governance and risk management.",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -2547,16 +2620,34 @@
         {
           "firm": "Gadens",
           "title": "Tripping the wire: New voting power triggers in Australia’s merger control regime",
-          "permalink": "https://www.gadens.com/legal-insights/tripping-the-wire-new-voting-power-triggers-in-australias-merger-control-regime/",
-          "dateISO": "2026-03-25",
-          "dateText": "25 March 2026",
+          "permalink": "https://www.gadens.com/insights/tripping-the-wire-new-voting-power-triggers-in-australias-merger-control-regime",
+          "dateISO": "2026-03-26",
+          "dateText": "26 March 2026",
           "month": "March 2026",
           "year": 2026,
           "topic": "Mergers",
           "topics": [
             "Mergers"
           ],
-          "teaser": "The number of transactions caught by Australia’s new merger control regime is set to expand",
+          "teaser": "Australia’s merger control regime is introducing new voting power triggers that expand when transactions must be notified, increasing scrutiny and requiring businesses to carefully assess minority stake acquisitions and control thresholds.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Gadens",
+          "title": "IPO reforms set to boost M&A activity",
+          "permalink": "https://www.gadens.com/insights/ipo-reforms-set-to-boost-m-and-a-activity",
+          "dateISO": "2026-03-19",
+          "dateText": "19 March 2026",
+          "month": "March 2026",
+          "year": 2026,
+          "topic": "Mergers",
+          "topics": [
+            "Mergers"
+          ],
+          "teaser": "Proposed IPO reforms are expected to streamline listing requirements and reduce regulatory barriers, making public markets more accessible and driving increased M&A activity by enhancing exit opportunities and deal flow.",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -2565,16 +2656,17 @@
         {
           "firm": "Gadens",
           "title": "Australian mandatory merger control: Key implications",
-          "permalink": "https://www.gadens.com/legal-insights/australian-mandatory-merger-control-key-implications/",
-          "dateISO": "2026-03-11",
-          "dateText": "11 March 2026",
+          "permalink": "https://www.gadens.com/insights/australian-mandatory-merger-control-key-implications",
+          "dateISO": "2026-03-12",
+          "dateText": "12 March 2026",
           "month": "March 2026",
           "year": 2026,
-          "topic": "Mergers",
+          "topic": "Competition, Mergers",
           "topics": [
+            "Competition",
             "Mergers"
           ],
-          "teaser": "The introduction of mandatory merger control in Australia introduces the biggest change in Australian deal",
+          "teaser": "Australia’s proposed mandatory merger control regime will significantly reshape competition law compliance by introducing a compulsory notification system, stricter review thresholds, and increased regulatory scrutiny for businesses pursuing",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -2583,7 +2675,7 @@
         {
           "firm": "Gadens",
           "title": "Australian M&A: A review of 2025 and outlook for 2026",
-          "permalink": "https://www.gadens.com/legal-insights/australian-ma-a-review-of-2025-and-outlook-for-2026/",
+          "permalink": "https://www.gadens.com/insights/australian-ma-a-review-of-2025-and-outlook-for-2026",
           "dateISO": "2026-02-26",
           "dateText": "26 February 2026",
           "month": "February 2026",
@@ -2592,7 +2684,7 @@
           "topics": [
             "Mergers"
           ],
-          "teaser": "In 2025, Gadens’ Corporate team advised on over 50 M&A transactions totalling more than AUD3.8",
+          "teaser": "Australian M&A in 2025 showed resilient deal activity amid macroeconomic pressures, with 2026 expected to see renewed momentum driven by easing conditions, strategic consolidation, and increased private capital participation.",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -2601,16 +2693,18 @@
         {
           "firm": "Gadens",
           "title": "New prohibitions on unfair trading practices on the horizon",
-          "permalink": "https://www.gadens.com/legal-insights/new-prohibitions-on-unfair-trading-practices-on-the-horizon/",
-          "dateISO": "2026-02-10",
-          "dateText": "10 February 2026",
+          "permalink": "https://www.gadens.com/insights/new-prohibitions-on-unfair-trading-practices-on-the-horizon",
+          "dateISO": "2026-02-11",
+          "dateText": "11 February 2026",
           "month": "February 2026",
           "year": 2026,
-          "topic": "Unfair Trading",
+          "topic": "Competition, Unfair Trading, Pricing",
           "topics": [
-            "Unfair Trading"
+            "Competition",
+            "Unfair Trading",
+            "Pricing"
           ],
-          "teaser": "Following the release of two Decision Regulation Impact Statements (DRISs) in December that proposed significant",
+          "teaser": "The proposed Competition and Consumer Amendment (Unfair Trading Practices) Bill 2026 introduces a broad prohibition on manipulative and distortive business conduct, alongside targeted reforms addressing subscription practices and drip pricing under",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -2618,17 +2712,17 @@
         },
         {
           "firm": "Gadens",
-          "title": "Battle of the Brands: Bed Bath ‘N’ Table Triumphs in Landmark High Court Decision",
-          "permalink": "https://www.gadens.com/legal-insights/battle-of-the-brands-bed-bath-n-table-triumphs-in-landmark-high-court-decision/",
-          "dateISO": "2026-01-13",
-          "dateText": "13 January 2026",
-          "month": "January 2026",
+          "title": "Building certainty on Victoria’s Developer Bond scheme",
+          "permalink": "https://www.gadens.com/insights/building-certainty-on-victorias-developer-bond-scheme",
+          "dateISO": "2026-02-05",
+          "dateText": "5 February 2026",
+          "month": "February 2026",
           "year": 2026,
-          "topic": "Competition & Consumer",
+          "topic": "Consumer Law",
           "topics": [
-            "Competition & Consumer"
+            "Consumer Law"
           ],
-          "teaser": "In Bed Bath ‘N’ Table v Global Retail Brands Australia Pty Ltd HCA 50, the",
+          "teaser": "Victoria’s Developer Bond scheme reforms aim to deliver greater certainty, transparency, and accountability for developers while strengthening consumer protections in the building and construction sector.",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -2647,6 +2741,9 @@
       "sourceUrl": "https://www.corrs.com.au/insights",
       "domestic": true,
       "manualOnly": false,
+      "lastOkAt": "2026-10-15T09:33:42.305Z",
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
         {
           "firm": "Corrs Chambers Westgarth",
@@ -2772,6 +2869,9 @@
       "sourceUrl": "https://www.dentons.com/en/insights?Filters=%26regionid%3D5CFDCB74SYDNE",
       "domestic": false,
       "manualOnly": false,
+      "lastOkAt": "2026-10-15T09:33:42.305Z",
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
         {
           "firm": "Dentons",
@@ -2841,7 +2941,245 @@
       "sourceUrl": "https://www.maddocks.com.au/insights",
       "domestic": true,
       "manualOnly": false,
+      "lastOkAt": "2026-10-15T09:33:42.305Z",
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
+        {
+          "firm": "Maddocks",
+          "title": "Unconscionable by design: the Federal Court delivers two scathing judgments on dishonest and manipulative business practices",
+          "permalink": "https://www.maddocks.com.au/insights/unconscionable-by-design-the-federal-court-delivers-two-scathing-judgements-on-dishonest-and-manipulative-business-practices",
+          "dateISO": "2026-10-06",
+          "dateText": "6 October 2026",
+          "month": "October 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "The Federal Court has recently made serious findings of unlawful conduct against two different businesses.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Maddocks",
+          "title": "The top 5 things you need to know about possible changes to Australia's product safety laws",
+          "permalink": "https://www.maddocks.com.au/insights/the-top-5-things-you-need-to-know-about-possible-changes-to-australias-product-safety-laws",
+          "dateISO": "2026-09-25",
+          "dateText": "25 September 2026",
+          "month": "September 2026",
+          "year": 2026,
+          "topic": "Product Safety",
+          "topics": [
+            "Product Safety"
+          ],
+          "teaser": "The Government released a Consultation Regulation Impact Statement that could reshape product safety regulation.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Maddocks",
+          "title": "City Beach hit with stormy waters in unsuccessful $14m button battery appeal",
+          "permalink": "https://www.maddocks.com.au/insights/city-beach-hit-with-stormy-waters-in-unsuccessful-14m-button-battery-appeal",
+          "dateISO": "2026-09-11",
+          "dateText": "11 September 2026",
+          "month": "September 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "City Beach lost its appeal against the $14m penalty imposed by the Federal Court for supplying non-compliant products.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Maddocks",
+          "title": "Swiped right on deception: eHarmony's bad date with the Federal Court",
+          "permalink": "https://www.maddocks.com.au/insights/swiped-right-on-deception-eharmonys-bad-date-with-the-federal-court",
+          "dateISO": "2026-09-01",
+          "dateText": "1 September 2026",
+          "month": "September 2026",
+          "year": 2026,
+          "topic": "Consumer Law, Misleading Conduct",
+          "topics": [
+            "Consumer Law",
+            "Misleading Conduct"
+          ],
+          "teaser": "The Federal Court found eHarmony engaged in widespread misleading and deceptive conduct in breach of the ACL.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Maddocks",
+          "title": "Watchdog Podcast | ACCC v Coles and the future of was-now pricing",
+          "permalink": "https://www.maddocks.com.au/insights/watchdog-podcast-accc-v-coles-and-the-future-of-was-now-pricing",
+          "dateISO": "2026-09-01",
+          "dateText": "1 September 2026",
+          "month": "September 2026",
+          "year": 2026,
+          "topic": "ACCC",
+          "topics": [
+            "ACCC"
+          ],
+          "teaser": "We unpack recent findings and explore implications for retailers and businesses running promotional pricing campaigns.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Maddocks",
+          "title": "That'll cost extra: Dynamic pricing and why your algorithm might need a lawyer",
+          "permalink": "https://www.maddocks.com.au/insights/thatll-cost-extra-dynamic-pricing",
+          "dateISO": "2026-08-24",
+          "dateText": "24 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Businesses are increasingly utilising real-time market data and algorithms to set the price for goods and services.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Maddocks",
+          "title": "Maddocks and Bendelta recognised with four Brandon Hall Group Excellence Awards for leadership development partnership",
+          "permalink": "https://www.maddocks.com.au/insights/maddocks-and-bendelta-recognised-with-four-brandon-hall-group-excellence-awards-for-leadership-development-partnership",
+          "dateISO": "2026-08-20",
+          "dateText": "20 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "The organisations received one Gold and three Silver awards.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Maddocks",
+          "title": "Watchdog Podcast | Amazon, Microsoft and the ACCC's Subscription Crackdown",
+          "permalink": "https://www.maddocks.com.au/insights/watchdog-podcast-amazon-microsoft-and-the-acccs-subscription-crackdown",
+          "dateISO": "2026-08-18",
+          "dateText": "18 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "ACCC",
+          "topics": [
+            "ACCC"
+          ],
+          "teaser": "Shaun Temby is joined by Brendan Tomlinson to unpack two significant ACCC proceedings against Microsoft and Amazon.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Maddocks",
+          "title": "Legal 500 Country Comparative Guides 2026 | Artificial Intelligence",
+          "permalink": "https://www.maddocks.com.au/insights/legal-500-country-comparative-guides-2026-artifical-intelligence",
+          "dateISO": "2026-08-14",
+          "dateText": "14 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Maddocks contributed to the 4th Edition of the Legal 500: Capital Markets Comparative Guide — a country-specific Q&A",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Maddocks",
+          "title": "\"Down Down” – Coles was/now pricing strategy sunk by the Federal Court",
+          "permalink": "https://www.maddocks.com.au/insights/down-down-coles-was-now-pricing-strategy-sunk-by-the-federal-court",
+          "dateISO": "2026-08-10",
+          "dateText": "10 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "The Federal Court’s Coles decision offers key lessons for businesses using ‘Was/Now’ pricing.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Maddocks",
+          "title": "A Costly Assumption: Westwood Capital and the Limits of the Good Faith Defence",
+          "permalink": "https://www.maddocks.com.au/insights/a-costly-assumption-westwood-capital-and-the-limits-of-the-good-faith-defence",
+          "dateISO": "2026-08-10",
+          "dateText": "10 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Providing important guidance on the operation of the good faith defence in section 588FG(2) of the Corporations Act 2001",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Maddocks",
+          "title": "Legal 500 Country Comparative Guides 2026 | Capital Markets",
+          "permalink": "https://www.maddocks.com.au/insights/legal-500-country-comparative-guides-2026-capital-markets",
+          "dateISO": "2026-08-10",
+          "dateText": "10 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "This country-specific Q&A provides an overview of Capital Markets laws and regulations applicable in Australia.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Maddocks",
+          "title": "Maddocks reveals a new look for its next chapter",
+          "permalink": "https://www.maddocks.com.au/insights/maddocks-reveals-a-new-look-for-its-next-chapter",
+          "dateISO": "2026-08-03",
+          "dateText": "3 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Maddocks has today launched a new logo and refreshed visual identity.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Maddocks",
           "title": "Maddocks advises founders of Yo My Goodness on investment by River Capital",
@@ -3314,7 +3652,157 @@
       "sourceUrl": "https://hallandwilcox.com.au/news/?service=15647",
       "domestic": true,
       "manualOnly": false,
+      "lastOkAt": "2026-10-15T09:33:42.305Z",
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
+        {
+          "firm": "Hall & Wilcox",
+          "title": "Key risk areas for sponsorship and endorsement agreements under Australia's unfair contract terms regime",
+          "permalink": "https://hallandwilcox.com.au/news/key-risk-areas-for-sponsorship-and-endorsement-agreements-under-australias-unfair-contract-terms-regime/",
+          "dateISO": "2026-10-08",
+          "dateText": "8 October 2026",
+          "month": "October 2026",
+          "year": 2026,
+          "topic": "Unfair Contract Terms",
+          "topics": [
+            "Unfair Contract Terms"
+          ],
+          "teaser": "",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Hall & Wilcox",
+          "title": "Australia’s merger regime refined: what the latest changes mean for deal makers",
+          "permalink": "https://hallandwilcox.com.au/news/australias-merger-regime-refined-what-the-latest-changes-mean-for-deal-makers/",
+          "dateISO": "2026-09-24",
+          "dateText": "24 September 2026",
+          "month": "September 2026",
+          "year": 2026,
+          "topic": "Mergers",
+          "topics": [
+            "Mergers"
+          ],
+          "teaser": "",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Hall & Wilcox",
+          "title": "Australian M&A Market Update: what's shaping deals in FY27",
+          "permalink": "https://hallandwilcox.com.au/news/australian-m-a-market-update-whats-shaping-deals-in-fy27/",
+          "dateISO": "2026-09-07",
+          "dateText": "7 September 2026",
+          "month": "September 2026",
+          "year": 2026,
+          "topic": "Mergers",
+          "topics": [
+            "Mergers"
+          ],
+          "teaser": "",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Hall & Wilcox",
+          "title": "eHarmony’s situationship with the ACCC: how new consumer law reforms may impact businesses",
+          "permalink": "https://hallandwilcox.com.au/news/eharmonys-situationship-with-the-accc-how-new-consumer-law-reforms-may-impact-businesses/",
+          "dateISO": "2026-08-28",
+          "dateText": "28 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "ACCC, Consumer Law",
+          "topics": [
+            "ACCC",
+            "Consumer Law"
+          ],
+          "teaser": "",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Hall & Wilcox",
+          "title": "ASIC greenwashing penalty: Fiducian decision highlights need for ESG oversight",
+          "permalink": "https://hallandwilcox.com.au/news/asic-greenwashing-penalty-fiducian-decision-highlights-need-for-esg-oversight/",
+          "dateISO": "2026-08-27",
+          "dateText": "27 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Greenwashing, Enforcement & Penalties",
+          "topics": [
+            "Greenwashing",
+            "Enforcement & Penalties"
+          ],
+          "teaser": "",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Hall & Wilcox",
+          "title": "Accountant’s advice, related party fund and $10million loss: misleading conduct, fiduciary breach and personal exposure",
+          "permalink": "https://hallandwilcox.com.au/news/accountants-advice-related-party-fund-and-10million-loss-misleading-conduct-fiduciary-breach-and-personal-exposure/",
+          "dateISO": "2026-07-22",
+          "dateText": "22 July 2026",
+          "month": "July 2026",
+          "year": 2026,
+          "topic": "Misleading Conduct",
+          "topics": [
+            "Misleading Conduct"
+          ],
+          "teaser": "",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Hall & Wilcox",
+          "title": "New consumer law reforms for unfair trading practices, pricing and subscription contracts",
+          "permalink": "https://hallandwilcox.com.au/news/new-consumer-law-reforms-for-unfair-trading-practices-pricing-and-subscription-contracts/",
+          "dateISO": "2026-07-15",
+          "dateText": "15 July 2026",
+          "month": "July 2026",
+          "year": 2026,
+          "topic": "Consumer Law, Unfair Trading",
+          "topics": [
+            "Consumer Law",
+            "Unfair Trading"
+          ],
+          "teaser": "",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Hall & Wilcox",
+          "title": "Pay now, argue later: Security of Payment regime survives ACL challenge",
+          "permalink": "https://hallandwilcox.com.au/news/pay-now-argue-later-security-of-payment-regime-survives-acl-challenge/",
+          "dateISO": "2026-07-07",
+          "dateText": "7 July 2026",
+          "month": "July 2026",
+          "year": 2026,
+          "topic": "Consumer Law",
+          "topics": [
+            "Consumer Law"
+          ],
+          "teaser": "",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Hall & Wilcox",
           "title": "Assessing the first 100 days of Australia's new merger regime",
@@ -3346,6 +3834,9 @@
       "sourceUrl": "https://mk.com.au/news-insights/?expertise=competition-and-consumer",
       "domestic": true,
       "manualOnly": false,
+      "lastOkAt": "2026-10-15T09:33:42.305Z",
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
         {
           "firm": "Macpherson Kelley",
@@ -3475,7 +3966,29 @@
       "sourceUrl": "https://www.millsoakley.com.au/recent-insights/",
       "domestic": true,
       "manualOnly": false,
+      "lastOkAt": "2026-10-15T09:33:42.305Z",
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
+        {
+          "firm": "Mills Oakley",
+          "title": "The ACCC's new merger regime at six months: what mid-market buyers need to know",
+          "permalink": "https://www.millsoakley.com.au/insights/the-acccs-new-merger-regime-at-six-months-what-mid-market-buyers-need-to-know/",
+          "dateISO": "2026-09-16",
+          "dateText": "16 September 2026",
+          "month": "September 2026",
+          "year": 2026,
+          "topic": "Mergers, ACCC",
+          "topics": [
+            "Mergers",
+            "ACCC"
+          ],
+          "teaser": "On 24 July 2026, the ACCC published its first full set of data on its new mandatory merger control regime, covering the period from its introduction on 1 January to 30 June. For buyers in the mid-market this is the first opportunity to evaluate the ACCC’s view on the operation of the new regime.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Mills Oakley",
           "title": "Bed Bath N’ Branding: The High Court on Branding, Reputation and Consumer Confusion",
