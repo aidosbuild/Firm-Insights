@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-10-18T22:44:58.421Z",
-  "lastCheckedAt": "2026-10-18T22:44:58.421Z",
+  "lastCheckedAt": "2026-10-19T10:30:14.468Z",
   "recordCount": 204,
   "firms": [
     {
@@ -14,7 +14,7 @@
       "sourceUrl": "https://addisons.com/insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-18T22:41:35.752Z",
+      "lastOkAt": "2026-10-19T10:26:47.660Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -308,7 +308,7 @@
       "sourceUrl": "https://www.allens.com.au/insights-news/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-18T22:41:35.752Z",
+      "lastOkAt": "2026-10-19T10:26:47.660Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -566,7 +566,7 @@
       "sourceUrl": "https://www.mallesons.com/au/en/insights/latest-thinking.html?page=1",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-18T22:41:35.752Z",
+      "lastOkAt": "2026-10-19T10:26:47.660Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -764,7 +764,7 @@
       "sourceUrl": "https://www.gtlaw.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-18T22:41:35.752Z",
+      "lastOkAt": "2026-10-19T10:26:47.660Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1260,7 +1260,7 @@
       "sourceUrl": "https://www.claytonutz.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-18T22:41:35.752Z",
+      "lastOkAt": "2026-10-19T10:26:47.660Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1613,7 +1613,7 @@
       "sourceUrl": "https://www.ashurstperkinscoie.com/en/insights/all-insights/",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-18T22:41:35.752Z",
+      "lastOkAt": "2026-10-19T10:26:47.660Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1942,7 +1942,7 @@
       "sourceUrl": "https://www.bakermckenzie.com/en/insight",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-18T22:41:35.752Z",
+      "lastOkAt": "2026-10-19T10:26:47.660Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2108,7 +2108,7 @@
       "sourceUrl": "https://www.twobirds.com/en/insights",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-18T22:41:35.752Z",
+      "lastOkAt": "2026-10-19T10:26:47.660Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2426,7 +2426,7 @@
       "sourceUrl": "https://www.gadens.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-18T22:41:35.752Z",
+      "lastOkAt": "2026-10-19T10:26:47.660Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2741,7 +2741,7 @@
       "sourceUrl": "https://www.corrs.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-18T22:41:35.752Z",
+      "lastOkAt": "2026-10-19T10:26:47.660Z",
       "keptPrevious": false,
       "lastError": "insights page: HTTP 403",
       "records": [
@@ -2869,7 +2869,7 @@
       "sourceUrl": "https://www.dentons.com/en/insights?Filters=%26regionid%3D5CFDCB74SYDNE",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-18T22:41:35.752Z",
+      "lastOkAt": "2026-10-19T10:26:47.660Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2941,7 +2941,7 @@
       "sourceUrl": "https://www.maddocks.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-18T22:41:35.752Z",
+      "lastOkAt": "2026-10-19T10:26:47.660Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3652,7 +3652,7 @@
       "sourceUrl": "https://hallandwilcox.com.au/news/?service=15647",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-18T22:41:35.752Z",
+      "lastOkAt": "2026-10-19T10:26:47.660Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3835,8 +3835,8 @@
       "domestic": true,
       "manualOnly": false,
       "lastOkAt": "2026-10-18T22:41:35.752Z",
-      "keptPrevious": false,
-      "lastError": null,
+      "keptPrevious": true,
+      "lastError": "HTTP 500 for https://mk.com.au/wp-json/wp/v2/posts?expertise=61&per_page=100&page=1&_fields=id,date,link,title,excerpt",
       "records": [
         {
           "firm": "Macpherson Kelley",
@@ -3966,7 +3966,7 @@
       "sourceUrl": "https://www.millsoakley.com.au/recent-insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-18T22:41:35.752Z",
+      "lastOkAt": "2026-10-19T10:26:47.660Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
