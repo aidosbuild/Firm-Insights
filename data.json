@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-19T19:10:02.639Z",
-  "lastCheckedAt": "2026-10-19T19:10:02.639Z",
-  "recordCount": 209,
+  "generatedAt": "2026-10-20T00:06:33.997Z",
+  "lastCheckedAt": "2026-10-20T00:06:33.997Z",
+  "recordCount": 210,
   "firms": [
     {
       "name": "Addisons",
@@ -14,7 +14,7 @@
       "sourceUrl": "https://addisons.com/insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-19T19:06:57.162Z",
+      "lastOkAt": "2026-10-20T00:03:18.352Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -308,7 +308,7 @@
       "sourceUrl": "https://www.allens.com.au/insights-news/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-19T19:06:57.162Z",
+      "lastOkAt": "2026-10-20T00:03:18.352Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -566,7 +566,7 @@
       "sourceUrl": "https://www.mallesons.com/au/en/insights/latest-thinking.html?page=1",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-19T19:06:57.162Z",
+      "lastOkAt": "2026-10-20T00:03:18.352Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -764,7 +764,7 @@
       "sourceUrl": "https://www.gtlaw.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-19T19:06:57.162Z",
+      "lastOkAt": "2026-10-20T00:03:18.352Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1260,7 +1260,7 @@
       "sourceUrl": "https://www.claytonutz.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-19T19:06:57.162Z",
+      "lastOkAt": "2026-10-20T00:03:18.352Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1613,7 +1613,7 @@
       "sourceUrl": "https://www.ashurstperkinscoie.com/en/insights/all-insights/",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-19T19:06:57.162Z",
+      "lastOkAt": "2026-10-20T00:03:18.352Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1942,7 +1942,7 @@
       "sourceUrl": "https://www.bakermckenzie.com/en/insight",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-19T19:06:57.162Z",
+      "lastOkAt": "2026-10-20T00:03:18.352Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1984,17 +1984,17 @@
         },
         {
           "firm": "Baker McKenzie",
-          "title": "Australia: Five Things Every Tech Founder Must Nail",
-          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-five-things-every-tech-founder-must-nail",
-          "dateISO": "2026-07-28",
-          "dateText": "28 July 2026",
-          "month": "July 2026",
+          "title": "Australia: Three Things Every Tech Founder Must Nail (Part 2)",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-tech-founder-series",
+          "dateISO": "2026-08-13",
+          "dateText": "13 August 2026",
+          "month": "August 2026",
           "year": 2026,
           "topic": "Competition & Consumer",
           "topics": [
             "Competition & Consumer"
           ],
-          "teaser": "Tech founders should address key employment law risks early to help avoid costly disputes, build a stronger foundation for growth, and set up for future divestment.",
+          "teaser": "Practical legal lessons for tech founders to help avoid disputes, regulatory headaches and costly mistakes as they scale.",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -2020,17 +2020,35 @@
         },
         {
           "firm": "Baker McKenzie",
-          "title": "Australia: Victorian Right to Work from Home",
-          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-victorian-right-to-work-from-home",
-          "dateISO": "2026-07-14",
-          "dateText": "14 July 2026",
+          "title": "Australia: Directors' Duties in Australia – FY27 Edition",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-directors-duties-in-australia-fy27-edition",
+          "dateISO": "2026-07-07",
+          "dateText": "7 July 2026",
           "month": "July 2026",
           "year": 2026,
           "topic": "Competition & Consumer",
           "topics": [
             "Competition & Consumer"
           ],
-          "teaser": "Victorian Bill introduces an employee right to work from home.",
+          "teaser": "Baker McKenzie&apos;s FY27 Directors&apos; Duties guide outlines key governance obligations and practical guidance on cyber, AI and environmental risks.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "AI Governance Tracker",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/resources/ai-governance-tracker",
+          "dateISO": "2026-06-24",
+          "dateText": "24 June 2026",
+          "month": "June 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Our AI Governance Tracker is a regularly updated, practical tool that compares global AI regulations and key guiding principles.",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -2110,6 +2128,24 @@
         },
         {
           "firm": "Baker McKenzie",
+          "title": "Australia: Victoria's Security of Payment regime overhauled",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/04/australia-victorias-security-of-payment-regime-overhauled",
+          "dateISO": "2026-04-30",
+          "dateText": "30 April 2026",
+          "month": "April 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Major amendments to Victoria&apos;s Security of Payment Act have started, reshaping payment claims, adjudication risk and security in construction projects.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
           "title": "Australia: Tightening the Belt – ASIC Consults on NTA",
           "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/04/australia-tightening-the-belt-asic-consults-on-nta",
           "dateISO": "2026-04-07",
@@ -2165,24 +2201,6 @@
           "bullets": [],
           "overridden": false,
           "notes": ""
-        },
-        {
-          "firm": "Baker McKenzie",
-          "title": "Australia: Digital Services Regulation – 2025 Year-End Wrap-Up",
-          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/01/australia-digital-services-regulation",
-          "dateISO": "2026-01-21",
-          "dateText": "21 January 2026",
-          "month": "January 2026",
-          "year": 2026,
-          "topic": "Competition & Consumer",
-          "topics": [
-            "Competition & Consumer"
-          ],
-          "teaser": "Australian digital services regulatory developments for late 2025, including SMMA, online safety codes, digital duty of care, and anti-scam reforms.",
-          "summary": "",
-          "bullets": [],
-          "overridden": false,
-          "notes": ""
         }
       ]
     },
@@ -2198,7 +2216,7 @@
       "sourceUrl": "https://www.twobirds.com/en/insights",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-19T19:06:57.162Z",
+      "lastOkAt": "2026-10-20T00:03:18.352Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2516,7 +2534,7 @@
       "sourceUrl": "https://www.gadens.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-19T19:06:57.162Z",
+      "lastOkAt": "2026-10-20T00:03:18.352Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2831,7 +2849,7 @@
       "sourceUrl": "https://www.corrs.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-19T19:06:57.162Z",
+      "lastOkAt": "2026-10-20T00:03:18.352Z",
       "keptPrevious": false,
       "lastError": "insights page: HTTP 403",
       "records": [
@@ -2959,7 +2977,7 @@
       "sourceUrl": "https://www.dentons.com/en/insights?Filters=%26regionid%3D5CFDCB74SYDNE",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-19T19:06:57.162Z",
+      "lastOkAt": "2026-10-20T00:03:18.352Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3031,7 +3049,7 @@
       "sourceUrl": "https://www.maddocks.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-19T19:06:57.162Z",
+      "lastOkAt": "2026-10-20T00:03:18.352Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3742,7 +3760,7 @@
       "sourceUrl": "https://hallandwilcox.com.au/news/?service=15647",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-19T19:06:57.162Z",
+      "lastOkAt": "2026-10-20T00:03:18.352Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -4056,7 +4074,7 @@
       "sourceUrl": "https://www.millsoakley.com.au/recent-insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-19T19:06:57.162Z",
+      "lastOkAt": "2026-10-20T00:03:18.352Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
