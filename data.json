@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-20T09:49:31.326Z",
-  "lastCheckedAt": "2026-10-20T09:49:31.326Z",
-  "recordCount": 201,
+  "generatedAt": "2026-10-20T17:52:29.425Z",
+  "lastCheckedAt": "2026-10-20T17:52:29.425Z",
+  "recordCount": 205,
   "firms": [
     {
       "name": "Addisons",
@@ -14,7 +14,7 @@
       "sourceUrl": "https://addisons.com/insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-20T09:45:43.076Z",
+      "lastOkAt": "2026-10-20T17:49:21.978Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -31,6 +31,24 @@
             "Mergers"
           ],
           "teaser": "Targeted amendments to Australia’s mandatory merger control regime have important consequences for companies considering acquisitions, minority investments and other strategic transactions.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Addisons",
+          "title": "Non-competes on the chopping block: what Australian businesses need to know",
+          "permalink": "https://addisons.com/article/non-competes-on-the-chopping-block-what-australian-businesses-need-to-know/",
+          "dateISO": "2026-09-22",
+          "dateText": "22 September 2026",
+          "month": "September 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Australia’s rules on post-employment restraints may be heading for a major reset and businesses that rely on non-competes, no-poach clauses or staff non-solicitation restraints should start preparing now.",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -149,6 +167,42 @@
         },
         {
           "firm": "Addisons",
+          "title": "SMS Sender IDs to Be Labelled “Unverified” Unless Registered from 1 July 2026",
+          "permalink": "https://addisons.com/article/sms-sender-ids-to-be-labelled-unverified-unless-registered-from-1-july-2026/",
+          "dateISO": "2026-06-10",
+          "dateText": "10 June 2026",
+          "month": "June 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "From 1 July 2026, SMS messages sent using an unregistered branded sender ID will no longer display the relevant brand name. Instead, they will be labelled “Unverified” and grouped with other unregistered messages, including those that may be associated with scam activity.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Addisons",
+          "title": "Unregistered branded SMS to be labelled “unverified” from 1 July 2026",
+          "permalink": "https://addisons.com/article/unregistered-branded-sms-to-be-labelled-unverified-from-1-july-2026/",
+          "dateISO": "2026-05-11",
+          "dateText": "11 May 2026",
+          "month": "May 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "From 1 July 2026, SMS messages sent using an unregistered branded sender ID will no longer display the relevant brand name. Instead, these messages will be labelled “Unverified” and grouped with other unregistered SMS messages, including potential scam messages.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Addisons",
           "title": "Hi, my name is…: A new wave of celebrity trade mark disputes",
           "permalink": "https://addisons.com/article/hi-my-name-is-a-new-wave-of-celebrity-trade-mark-disputes/",
           "dateISO": "2026-04-02",
@@ -254,7 +308,7 @@
       "sourceUrl": "https://www.allens.com.au/insights-news/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-20T09:45:43.076Z",
+      "lastOkAt": "2026-10-20T17:49:21.978Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -512,7 +566,7 @@
       "sourceUrl": "https://www.mallesons.com/au/en/insights/latest-thinking.html?page=1",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-20T09:45:43.076Z",
+      "lastOkAt": "2026-10-20T17:49:21.978Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -710,7 +764,7 @@
       "sourceUrl": "https://www.gtlaw.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-20T09:45:43.076Z",
+      "lastOkAt": "2026-10-20T17:49:21.978Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1206,7 +1260,7 @@
       "sourceUrl": "https://www.claytonutz.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-20T09:45:43.076Z",
+      "lastOkAt": "2026-10-20T17:49:21.978Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1559,7 +1613,7 @@
       "sourceUrl": "https://www.ashurstperkinscoie.com/en/insights/all-insights/",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-20T09:45:43.076Z",
+      "lastOkAt": "2026-10-20T17:49:21.978Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1888,7 +1942,7 @@
       "sourceUrl": "https://www.bakermckenzie.com/en/insight",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-20T09:45:43.076Z",
+      "lastOkAt": "2026-10-20T17:49:21.978Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1984,6 +2038,24 @@
         },
         {
           "firm": "Baker McKenzie",
+          "title": "Australia: Victoria's Security of Payment regime overhauled",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/04/australia-victorias-security-of-payment-regime-overhauled",
+          "dateISO": "2026-04-30",
+          "dateText": "30 April 2026",
+          "month": "April 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Major amendments to Victoria&apos;s Security of Payment Act have started, reshaping payment claims, adjudication risk and security in construction projects.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
           "title": "Australia: Tightening the Belt – ASIC Consults on NTA",
           "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/04/australia-tightening-the-belt-asic-consults-on-nta",
           "dateISO": "2026-04-07",
@@ -2054,7 +2126,7 @@
       "sourceUrl": "https://www.twobirds.com/en/insights",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-20T09:45:43.076Z",
+      "lastOkAt": "2026-10-20T17:49:21.978Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2372,7 +2444,7 @@
       "sourceUrl": "https://www.gadens.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-20T09:45:43.076Z",
+      "lastOkAt": "2026-10-20T17:49:21.978Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2687,7 +2759,7 @@
       "sourceUrl": "https://www.corrs.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-20T09:45:43.076Z",
+      "lastOkAt": "2026-10-20T17:49:21.978Z",
       "keptPrevious": false,
       "lastError": "insights page: HTTP 403",
       "records": [
@@ -2815,7 +2887,7 @@
       "sourceUrl": "https://www.dentons.com/en/insights?Filters=%26regionid%3D5CFDCB74SYDNE",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-20T09:45:43.076Z",
+      "lastOkAt": "2026-10-20T17:49:21.978Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2887,7 +2959,7 @@
       "sourceUrl": "https://www.maddocks.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-20T09:45:43.076Z",
+      "lastOkAt": "2026-10-20T17:49:21.978Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3598,7 +3670,7 @@
       "sourceUrl": "https://hallandwilcox.com.au/news/?service=15647",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-20T09:45:43.076Z",
+      "lastOkAt": "2026-10-20T17:49:21.978Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3780,7 +3852,7 @@
       "sourceUrl": "https://mk.com.au/news-insights/?expertise=competition-and-consumer",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-20T09:45:43.076Z",
+      "lastOkAt": "2026-10-20T17:49:21.978Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3912,7 +3984,7 @@
       "sourceUrl": "https://www.millsoakley.com.au/recent-insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-20T09:45:43.076Z",
+      "lastOkAt": "2026-10-20T17:49:21.978Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
