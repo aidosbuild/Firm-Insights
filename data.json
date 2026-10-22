@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-21T09:50:15.072Z",
-  "lastCheckedAt": "2026-10-21T23:53:16.328Z",
-  "recordCount": 204,
+  "generatedAt": "2026-10-22T09:52:15.701Z",
+  "lastCheckedAt": "2026-10-22T09:52:15.701Z",
+  "recordCount": 205,
   "firms": [
     {
       "name": "Addisons",
@@ -14,7 +14,7 @@
       "sourceUrl": "https://addisons.com/insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-21T23:50:01.270Z",
+      "lastOkAt": "2026-10-22T09:49:02.409Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -308,7 +308,7 @@
       "sourceUrl": "https://www.allens.com.au/insights-news/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-21T23:50:01.270Z",
+      "lastOkAt": "2026-10-22T09:49:02.409Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -566,7 +566,7 @@
       "sourceUrl": "https://www.mallesons.com/au/en/insights/latest-thinking.html?page=1",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-21T23:50:01.270Z",
+      "lastOkAt": "2026-10-22T09:49:02.409Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -764,7 +764,7 @@
       "sourceUrl": "https://www.gtlaw.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-21T23:50:01.270Z",
+      "lastOkAt": "2026-10-22T09:49:02.409Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1260,7 +1260,7 @@
       "sourceUrl": "https://www.claytonutz.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-21T23:50:01.270Z",
+      "lastOkAt": "2026-10-22T09:49:02.409Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1613,7 +1613,7 @@
       "sourceUrl": "https://www.ashurstperkinscoie.com/en/insights/all-insights/",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-21T23:50:01.270Z",
+      "lastOkAt": "2026-10-22T09:49:02.409Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1942,7 +1942,7 @@
       "sourceUrl": "https://www.bakermckenzie.com/en/insight",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-21T23:50:01.270Z",
+      "lastOkAt": "2026-10-22T09:49:02.409Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2108,7 +2108,7 @@
       "sourceUrl": "https://www.twobirds.com/en/insights",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-21T23:50:01.270Z",
+      "lastOkAt": "2026-10-22T09:49:02.409Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2426,7 +2426,7 @@
       "sourceUrl": "https://www.gadens.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-21T23:50:01.270Z",
+      "lastOkAt": "2026-10-22T09:49:02.409Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2741,7 +2741,7 @@
       "sourceUrl": "https://www.corrs.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-21T23:50:01.270Z",
+      "lastOkAt": "2026-10-22T09:49:02.409Z",
       "keptPrevious": false,
       "lastError": "insights page: HTTP 403",
       "records": [
@@ -2869,7 +2869,7 @@
       "sourceUrl": "https://www.dentons.com/en/insights?Filters=%26regionid%3D5CFDCB74SYDNE",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-21T23:50:01.270Z",
+      "lastOkAt": "2026-10-22T09:49:02.409Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2941,10 +2941,28 @@
       "sourceUrl": "https://www.maddocks.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-21T23:50:01.270Z",
+      "lastOkAt": "2026-10-22T09:49:02.409Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
+        {
+          "firm": "Maddocks",
+          "title": "Watchdog Podcast | “You have definitely won!”: Marketing claims, consumers and the MagnaMail decision",
+          "permalink": "https://www.maddocks.com.au/insights/watchdog-podcast-you-may-have-won-marketing-claims-consumers-and-the-magnamail-decision",
+          "dateISO": "2026-10-22",
+          "dateText": "22 October 2026",
+          "month": "October 2026",
+          "year": 2026,
+          "topic": "Misleading Conduct",
+          "topics": [
+            "Misleading Conduct"
+          ],
+          "teaser": "When does promotional language cross the line into misleading conduct?",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Maddocks",
           "title": "Unconscionable by design: the Federal Court delivers two scathing judgments on dishonest and manipulative business practices",
@@ -3652,7 +3670,7 @@
       "sourceUrl": "https://hallandwilcox.com.au/news/?service=15647",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-21T23:50:01.270Z",
+      "lastOkAt": "2026-10-22T09:49:02.409Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3834,7 +3852,7 @@
       "sourceUrl": "https://mk.com.au/news-insights/?expertise=competition-and-consumer",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-21T23:50:01.270Z",
+      "lastOkAt": "2026-10-22T09:49:02.409Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3966,7 +3984,7 @@
       "sourceUrl": "https://www.millsoakley.com.au/recent-insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-21T23:50:01.270Z",
+      "lastOkAt": "2026-10-22T09:49:02.409Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
