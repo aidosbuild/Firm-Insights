@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T00:11:49.821Z",
-  "lastCheckedAt": "2026-10-27T10:12:31.350Z",
+  "generatedAt": "2026-10-27T18:49:27.690Z",
+  "lastCheckedAt": "2026-10-27T18:49:27.690Z",
   "recordCount": 206,
   "firms": [
     {
@@ -14,7 +14,7 @@
       "sourceUrl": "https://addisons.com/insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T10:09:28.105Z",
+      "lastOkAt": "2026-10-27T18:45:04.733Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -308,7 +308,7 @@
       "sourceUrl": "https://www.allens.com.au/insights-news/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T10:09:28.105Z",
+      "lastOkAt": "2026-10-27T18:45:04.733Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -566,7 +566,7 @@
       "sourceUrl": "https://www.mallesons.com/au/en/insights/latest-thinking.html?page=1",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T10:09:28.105Z",
+      "lastOkAt": "2026-10-27T18:45:04.733Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -764,7 +764,7 @@
       "sourceUrl": "https://www.gtlaw.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T10:09:28.105Z",
+      "lastOkAt": "2026-10-27T18:45:04.733Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1260,7 +1260,7 @@
       "sourceUrl": "https://www.claytonutz.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T10:09:28.105Z",
+      "lastOkAt": "2026-10-27T18:45:04.733Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1613,7 +1613,7 @@
       "sourceUrl": "https://www.ashurstperkinscoie.com/en/insights/all-insights/",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T10:09:28.105Z",
+      "lastOkAt": "2026-10-27T18:45:04.733Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1710,7 +1710,7 @@
         },
         {
           "firm": "Ashurst",
-          "title": "Powering Up the Bill: Proposal for Data Centres to Pay for Grid Costs",
+          "title": "Powering Up the Bill: Proposal for Data Centers to Pay for Grid Costs",
           "permalink": "https://www.ashurstperkinscoie.com/en/insights/powering-up-the-bill-proposal-for-data-centres-to-pay-for-grid-costs/",
           "dateISO": "2026-08-24",
           "dateText": "24 August 2026",
@@ -1960,7 +1960,7 @@
       "sourceUrl": "https://www.bakermckenzie.com/en/insight",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T10:09:28.105Z",
+      "lastOkAt": "2026-10-27T18:45:04.733Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2126,7 +2126,7 @@
       "sourceUrl": "https://www.twobirds.com/en/insights",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T10:09:28.105Z",
+      "lastOkAt": "2026-10-27T18:45:04.733Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2444,7 +2444,7 @@
       "sourceUrl": "https://www.gadens.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T10:09:28.105Z",
+      "lastOkAt": "2026-10-27T18:45:04.733Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2760,7 +2760,7 @@
       "domestic": true,
       "manualOnly": false,
       "lastOkAt": "2026-10-27T10:09:28.105Z",
-      "keptPrevious": false,
+      "keptPrevious": true,
       "lastError": "insights page: HTTP 403",
       "records": [
         {
@@ -2887,7 +2887,7 @@
       "sourceUrl": "https://www.dentons.com/en/insights?Filters=%26regionid%3D5CFDCB74SYDNE",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T10:09:28.105Z",
+      "lastOkAt": "2026-10-27T18:45:04.733Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2959,7 +2959,7 @@
       "sourceUrl": "https://www.maddocks.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T10:09:28.105Z",
+      "lastOkAt": "2026-10-27T18:45:04.733Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3688,7 +3688,7 @@
       "sourceUrl": "https://hallandwilcox.com.au/news/?service=15647",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T10:09:28.105Z",
+      "lastOkAt": "2026-10-27T18:45:04.733Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3870,7 +3870,7 @@
       "sourceUrl": "https://mk.com.au/news-insights/?expertise=competition-and-consumer",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T10:09:28.105Z",
+      "lastOkAt": "2026-10-27T18:45:04.733Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
