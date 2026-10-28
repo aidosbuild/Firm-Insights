@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-27T18:49:27.690Z",
-  "lastCheckedAt": "2026-10-27T18:49:27.690Z",
-  "recordCount": 206,
+  "generatedAt": "2026-10-28T00:12:49.325Z",
+  "lastCheckedAt": "2026-10-28T00:12:49.325Z",
+  "recordCount": 207,
   "firms": [
     {
       "name": "Addisons",
@@ -14,7 +14,7 @@
       "sourceUrl": "https://addisons.com/insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T18:45:04.733Z",
+      "lastOkAt": "2026-10-28T00:09:39.031Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -308,7 +308,7 @@
       "sourceUrl": "https://www.allens.com.au/insights-news/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T18:45:04.733Z",
+      "lastOkAt": "2026-10-28T00:09:39.031Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -566,7 +566,7 @@
       "sourceUrl": "https://www.mallesons.com/au/en/insights/latest-thinking.html?page=1",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T18:45:04.733Z",
+      "lastOkAt": "2026-10-28T00:09:39.031Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -764,7 +764,7 @@
       "sourceUrl": "https://www.gtlaw.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T18:45:04.733Z",
+      "lastOkAt": "2026-10-28T00:09:39.031Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1260,10 +1260,28 @@
       "sourceUrl": "https://www.claytonutz.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T18:45:04.733Z",
+      "lastOkAt": "2026-10-28T00:09:39.031Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
+        {
+          "firm": "Clayton Utz",
+          "title": "Making emissions claims to consumers: the ACCC's new guidance",
+          "permalink": "https://www.claytonutz.com/insights/2026/october/making-emissions-claims-to-consumers-the-acccs-new-guidance",
+          "dateISO": "2026-10-26",
+          "dateText": "26 October 2026",
+          "month": "October 2026",
+          "year": 2026,
+          "topic": "ACCC",
+          "topics": [
+            "ACCC"
+          ],
+          "teaser": "The ACCC’s new guidance sets out some important warnings to businesses and highlights the need to balance technical accuracy with claims that consumers can readily understand.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Clayton Utz",
           "title": "No-poach and wage-fixing agreements: Australia's proposed new cartel offences",
@@ -1613,7 +1631,7 @@
       "sourceUrl": "https://www.ashurstperkinscoie.com/en/insights/all-insights/",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T18:45:04.733Z",
+      "lastOkAt": "2026-10-28T00:09:39.031Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1960,7 +1978,7 @@
       "sourceUrl": "https://www.bakermckenzie.com/en/insight",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T18:45:04.733Z",
+      "lastOkAt": "2026-10-28T00:09:39.031Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2126,7 +2144,7 @@
       "sourceUrl": "https://www.twobirds.com/en/insights",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T18:45:04.733Z",
+      "lastOkAt": "2026-10-28T00:09:39.031Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2444,7 +2462,7 @@
       "sourceUrl": "https://www.gadens.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T18:45:04.733Z",
+      "lastOkAt": "2026-10-28T00:09:39.031Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2759,8 +2777,8 @@
       "sourceUrl": "https://www.corrs.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T10:09:28.105Z",
-      "keptPrevious": true,
+      "lastOkAt": "2026-10-28T00:09:39.031Z",
+      "keptPrevious": false,
       "lastError": "insights page: HTTP 403",
       "records": [
         {
@@ -2887,7 +2905,7 @@
       "sourceUrl": "https://www.dentons.com/en/insights?Filters=%26regionid%3D5CFDCB74SYDNE",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T18:45:04.733Z",
+      "lastOkAt": "2026-10-28T00:09:39.031Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2959,7 +2977,7 @@
       "sourceUrl": "https://www.maddocks.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T18:45:04.733Z",
+      "lastOkAt": "2026-10-28T00:09:39.031Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3688,7 +3706,7 @@
       "sourceUrl": "https://hallandwilcox.com.au/news/?service=15647",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T18:45:04.733Z",
+      "lastOkAt": "2026-10-28T00:09:39.031Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3870,7 +3888,7 @@
       "sourceUrl": "https://mk.com.au/news-insights/?expertise=competition-and-consumer",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T18:45:04.733Z",
+      "lastOkAt": "2026-10-28T00:09:39.031Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -4002,9 +4020,9 @@
       "sourceUrl": "https://www.millsoakley.com.au/recent-insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-27T00:08:49.240Z",
-      "keptPrevious": true,
-      "lastError": "practice feed: Unexpected token '<', \"<html><hea\"... is not valid JSON; recent page 1: Unexpected token '<', \"<html><hea\"... is not valid JSON",
+      "lastOkAt": "2026-10-28T00:09:39.031Z",
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
         {
           "firm": "Mills Oakley",
