@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-10-28T18:44:24.139Z",
-  "lastCheckedAt": "2026-10-29T00:35:39.782Z",
+  "lastCheckedAt": "2026-10-29T11:17:04.949Z",
   "recordCount": 208,
   "firms": [
     {
@@ -14,7 +14,7 @@
       "sourceUrl": "https://addisons.com/insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T00:32:24.089Z",
+      "lastOkAt": "2026-10-29T11:13:51.834Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -308,7 +308,7 @@
       "sourceUrl": "https://www.allens.com.au/insights-news/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T00:32:24.089Z",
+      "lastOkAt": "2026-10-29T11:13:51.834Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -566,7 +566,7 @@
       "sourceUrl": "https://www.mallesons.com/au/en/insights/latest-thinking.html?page=1",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T00:32:24.089Z",
+      "lastOkAt": "2026-10-29T11:13:51.834Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -764,7 +764,7 @@
       "sourceUrl": "https://www.gtlaw.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T00:32:24.089Z",
+      "lastOkAt": "2026-10-29T11:13:51.834Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1260,7 +1260,7 @@
       "sourceUrl": "https://www.claytonutz.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T00:32:24.089Z",
+      "lastOkAt": "2026-10-29T11:13:51.834Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1631,7 +1631,7 @@
       "sourceUrl": "https://www.ashurstperkinscoie.com/en/insights/all-insights/",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T00:32:24.089Z",
+      "lastOkAt": "2026-10-29T11:13:51.834Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1996,7 +1996,7 @@
       "sourceUrl": "https://www.bakermckenzie.com/en/insight",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T00:32:24.089Z",
+      "lastOkAt": "2026-10-29T11:13:51.834Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2162,7 +2162,7 @@
       "sourceUrl": "https://www.twobirds.com/en/insights",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T00:32:24.089Z",
+      "lastOkAt": "2026-10-29T11:13:51.834Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2480,7 +2480,7 @@
       "sourceUrl": "https://www.gadens.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T00:32:24.089Z",
+      "lastOkAt": "2026-10-29T11:13:51.834Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2795,7 +2795,7 @@
       "sourceUrl": "https://www.corrs.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T00:32:24.089Z",
+      "lastOkAt": "2026-10-29T11:13:51.834Z",
       "keptPrevious": false,
       "lastError": "insights page: HTTP 403",
       "records": [
@@ -2923,7 +2923,7 @@
       "sourceUrl": "https://www.dentons.com/en/insights?Filters=%26regionid%3D5CFDCB74SYDNE",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T00:32:24.089Z",
+      "lastOkAt": "2026-10-29T11:13:51.834Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2995,7 +2995,7 @@
       "sourceUrl": "https://www.maddocks.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T00:32:24.089Z",
+      "lastOkAt": "2026-10-29T11:13:51.834Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3724,7 +3724,7 @@
       "sourceUrl": "https://hallandwilcox.com.au/news/?service=15647",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T00:32:24.089Z",
+      "lastOkAt": "2026-10-29T11:13:51.834Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3906,7 +3906,7 @@
       "sourceUrl": "https://mk.com.au/news-insights/?expertise=competition-and-consumer",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T00:32:24.089Z",
+      "lastOkAt": "2026-10-29T11:13:51.834Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -4038,9 +4038,9 @@
       "sourceUrl": "https://www.millsoakley.com.au/recent-insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-28T10:55:54.390Z",
-      "keptPrevious": true,
-      "lastError": "practice feed: Unexpected token '<', \"<html><hea\"... is not valid JSON; recent page 1: Unexpected token '<', \"<html><hea\"... is not valid JSON",
+      "lastOkAt": "2026-10-29T11:13:51.834Z",
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
         {
           "firm": "Mills Oakley",
