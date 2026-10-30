@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T18:52:59.366Z",
-  "lastCheckedAt": "2026-10-29T18:52:59.366Z",
-  "recordCount": 212,
+  "generatedAt": "2026-10-30T00:34:19.456Z",
+  "lastCheckedAt": "2026-10-30T00:34:19.456Z",
+  "recordCount": 208,
   "firms": [
     {
       "name": "Addisons",
@@ -14,7 +14,7 @@
       "sourceUrl": "https://addisons.com/insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T18:49:45.517Z",
+      "lastOkAt": "2026-10-30T00:30:59.626Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -308,7 +308,7 @@
       "sourceUrl": "https://www.allens.com.au/insights-news/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T18:49:45.517Z",
+      "lastOkAt": "2026-10-30T00:30:59.626Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -566,7 +566,7 @@
       "sourceUrl": "https://www.mallesons.com/au/en/insights/latest-thinking.html?page=1",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T18:49:45.517Z",
+      "lastOkAt": "2026-10-30T00:30:59.626Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -764,7 +764,7 @@
       "sourceUrl": "https://www.gtlaw.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T18:49:45.517Z",
+      "lastOkAt": "2026-10-30T00:30:59.626Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1260,7 +1260,7 @@
       "sourceUrl": "https://www.claytonutz.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T18:49:45.517Z",
+      "lastOkAt": "2026-10-30T00:30:59.626Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1631,7 +1631,7 @@
       "sourceUrl": "https://www.ashurstperkinscoie.com/en/insights/all-insights/",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T18:49:45.517Z",
+      "lastOkAt": "2026-10-30T00:30:59.626Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1996,7 +1996,7 @@
       "sourceUrl": "https://www.bakermckenzie.com/en/insight",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T18:49:45.517Z",
+      "lastOkAt": "2026-10-30T00:30:59.626Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2013,78 +2013,6 @@
             "Competition & Consumer"
           ],
           "teaser": "The Federal Government has released long-awaited draft laws to ban non-competes. We explore what the proposed changes mean for employers.",
-          "summary": "",
-          "bullets": [],
-          "overridden": false,
-          "notes": ""
-        },
-        {
-          "firm": "Baker McKenzie",
-          "title": "Australia Charts a New Course on AI Regulation and Policy",
-          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-charts-a-new-course-on-ai-regulation-and-policy",
-          "dateISO": "2026-08-25",
-          "dateText": "25 August 2026",
-          "month": "August 2026",
-          "year": 2026,
-          "topic": "Competition & Consumer",
-          "topics": [
-            "Competition & Consumer"
-          ],
-          "teaser": "Recent developments in Australia indicate that AI-specific regulation is on the horizon and identify areas of law primed for AI-specific reform.",
-          "summary": "",
-          "bullets": [],
-          "overridden": false,
-          "notes": ""
-        },
-        {
-          "firm": "Baker McKenzie",
-          "title": "Australia: Five Things Every Tech Founder Must Nail",
-          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-five-things-every-tech-founder-must-nail",
-          "dateISO": "2026-07-28",
-          "dateText": "28 July 2026",
-          "month": "July 2026",
-          "year": 2026,
-          "topic": "Competition & Consumer",
-          "topics": [
-            "Competition & Consumer"
-          ],
-          "teaser": "Tech founders should address key employment law risks early to help avoid costly disputes, build a stronger foundation for growth, and set up for future divestment.",
-          "summary": "",
-          "bullets": [],
-          "overridden": false,
-          "notes": ""
-        },
-        {
-          "firm": "Baker McKenzie",
-          "title": "Australia: AI Workplace Change – Managing Risks without Regret",
-          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-ai-workplace-change-managing-risks-without-regret",
-          "dateISO": "2026-07-17",
-          "dateText": "17 July 2026",
-          "month": "July 2026",
-          "year": 2026,
-          "topic": "Competition & Consumer",
-          "topics": [
-            "Competition & Consumer"
-          ],
-          "teaser": "As AI transforms workplaces, employers must navigate redundancy, consultation and psychosocial risk obligations carefully",
-          "summary": "",
-          "bullets": [],
-          "overridden": false,
-          "notes": ""
-        },
-        {
-          "firm": "Baker McKenzie",
-          "title": "Australia: Victorian Right to Work from Home",
-          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-victorian-right-to-work-from-home",
-          "dateISO": "2026-07-14",
-          "dateText": "14 July 2026",
-          "month": "July 2026",
-          "year": 2026,
-          "topic": "Competition & Consumer",
-          "topics": [
-            "Competition & Consumer"
-          ],
-          "teaser": "Victorian Bill introduces an employee right to work from home.",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -2234,7 +2162,7 @@
       "sourceUrl": "https://www.twobirds.com/en/insights",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T18:49:45.517Z",
+      "lastOkAt": "2026-10-30T00:30:59.626Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2552,7 +2480,7 @@
       "sourceUrl": "https://www.gadens.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T18:49:45.517Z",
+      "lastOkAt": "2026-10-30T00:30:59.626Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2867,7 +2795,7 @@
       "sourceUrl": "https://www.corrs.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T18:49:45.517Z",
+      "lastOkAt": "2026-10-30T00:30:59.626Z",
       "keptPrevious": false,
       "lastError": "insights page: HTTP 403",
       "records": [
@@ -2995,7 +2923,7 @@
       "sourceUrl": "https://www.dentons.com/en/insights?Filters=%26regionid%3D5CFDCB74SYDNE",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T18:49:45.517Z",
+      "lastOkAt": "2026-10-30T00:30:59.626Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3067,7 +2995,7 @@
       "sourceUrl": "https://www.maddocks.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T18:49:45.517Z",
+      "lastOkAt": "2026-10-30T00:30:59.626Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3796,7 +3724,7 @@
       "sourceUrl": "https://hallandwilcox.com.au/news/?service=15647",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T18:49:45.517Z",
+      "lastOkAt": "2026-10-30T00:30:59.626Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3978,7 +3906,7 @@
       "sourceUrl": "https://mk.com.au/news-insights/?expertise=competition-and-consumer",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T18:49:45.517Z",
+      "lastOkAt": "2026-10-30T00:30:59.626Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -4110,7 +4038,7 @@
       "sourceUrl": "https://www.millsoakley.com.au/recent-insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-10-29T18:49:45.517Z",
+      "lastOkAt": "2026-10-30T00:30:59.626Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
