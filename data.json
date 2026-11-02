@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-02T00:07:10.928Z",
-  "lastCheckedAt": "2026-11-02T00:07:10.928Z",
-  "recordCount": 209,
+  "generatedAt": "2026-11-02T13:03:30.425Z",
+  "lastCheckedAt": "2026-11-02T13:03:30.425Z",
+  "recordCount": 210,
   "firms": [
     {
       "name": "Addisons",
@@ -14,7 +14,7 @@
       "sourceUrl": "https://addisons.com/insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-02T00:03:58.182Z",
+      "lastOkAt": "2026-11-02T13:00:20.251Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -308,7 +308,7 @@
       "sourceUrl": "https://www.allens.com.au/insights-news/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-02T00:03:58.182Z",
+      "lastOkAt": "2026-11-02T13:00:20.251Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -566,7 +566,7 @@
       "sourceUrl": "https://www.mallesons.com/au/en/insights/latest-thinking.html?page=1",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-02T00:03:58.182Z",
+      "lastOkAt": "2026-11-02T13:00:20.251Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -764,7 +764,7 @@
       "sourceUrl": "https://www.gtlaw.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-02T00:03:58.182Z",
+      "lastOkAt": "2026-11-02T13:00:20.251Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1260,10 +1260,29 @@
       "sourceUrl": "https://www.claytonutz.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-02T00:03:58.182Z",
+      "lastOkAt": "2026-11-02T13:00:20.251Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
+        {
+          "firm": "Clayton Utz",
+          "title": "Boarding Now: Australia's Incoming Aviation Consumer Protection Framework",
+          "permalink": "https://www.claytonutz.com/insights/2026/october/boarding-now-australias-incoming-aviation-consumer-protection-framework",
+          "dateISO": "2026-11-02",
+          "dateText": "2 November 2026",
+          "month": "November 2026",
+          "year": 2026,
+          "topic": "Consumer Law, Enforcement & Penalties",
+          "topics": [
+            "Consumer Law",
+            "Enforcement & Penalties"
+          ],
+          "teaser": "Flights cancelled. Bags lost. Complaints going nowhere. These are familiar frustrations from Australian air travellers and, until now, there has been no dedicated framework to address them. Australia’s aviation sector is scheduled to change with a landmark package of bills, passed by the House of Representatives and now before the Senate which will, for the first time, hold airlines and airports to enforceable minimum service standards, backed by substantial civil penalties and an independent ombuds scheme. Notably, there will be no mandatory delay compensation, and much of the detail will be set later in subordinate legislation, following further consultation.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Clayton Utz",
           "title": "Making emissions claims to consumers: the ACCC's new guidance",
@@ -1631,7 +1650,7 @@
       "sourceUrl": "https://www.ashurstperkinscoie.com/en/insights/all-insights/",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-02T00:03:58.182Z",
+      "lastOkAt": "2026-11-02T13:00:20.251Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1996,7 +2015,7 @@
       "sourceUrl": "https://www.bakermckenzie.com/en/insight",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-02T00:03:58.182Z",
+      "lastOkAt": "2026-11-02T13:00:20.251Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2162,7 +2181,7 @@
       "sourceUrl": "https://www.twobirds.com/en/insights",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-02T00:03:58.182Z",
+      "lastOkAt": "2026-11-02T13:00:20.251Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2480,7 +2499,7 @@
       "sourceUrl": "https://www.gadens.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-02T00:03:58.182Z",
+      "lastOkAt": "2026-11-02T13:00:20.251Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2795,7 +2814,7 @@
       "sourceUrl": "https://www.corrs.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-02T00:03:58.182Z",
+      "lastOkAt": "2026-11-02T13:00:20.251Z",
       "keptPrevious": false,
       "lastError": "insights page: HTTP 403",
       "records": [
@@ -2923,7 +2942,7 @@
       "sourceUrl": "https://www.dentons.com/en/insights?Filters=%26regionid%3D5CFDCB74SYDNE",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-02T00:03:58.182Z",
+      "lastOkAt": "2026-11-02T13:00:20.251Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2995,7 +3014,7 @@
       "sourceUrl": "https://www.maddocks.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-02T00:03:58.182Z",
+      "lastOkAt": "2026-11-02T13:00:20.251Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3742,7 +3761,7 @@
       "sourceUrl": "https://hallandwilcox.com.au/news/?service=15647",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-02T00:03:58.182Z",
+      "lastOkAt": "2026-11-02T13:00:20.251Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3924,7 +3943,7 @@
       "sourceUrl": "https://mk.com.au/news-insights/?expertise=competition-and-consumer",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-02T00:03:58.182Z",
+      "lastOkAt": "2026-11-02T13:00:20.251Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -4056,7 +4075,7 @@
       "sourceUrl": "https://www.millsoakley.com.au/recent-insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-02T00:03:58.182Z",
+      "lastOkAt": "2026-11-02T13:00:20.251Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
