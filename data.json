@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-03T02:46:58.991Z",
-  "lastCheckedAt": "2026-11-03T02:46:58.991Z",
-  "recordCount": 210,
+  "generatedAt": "2026-11-03T12:37:12.108Z",
+  "lastCheckedAt": "2026-11-03T12:37:12.108Z",
+  "recordCount": 258,
   "firms": [
     {
       "name": "Addisons",
@@ -14,7 +14,7 @@
       "sourceUrl": "https://addisons.com/insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-03T02:43:29.365Z",
+      "lastOkAt": "2026-11-03T12:34:01.995Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -308,7 +308,7 @@
       "sourceUrl": "https://www.allens.com.au/insights-news/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-03T02:43:29.365Z",
+      "lastOkAt": "2026-11-03T12:34:01.995Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -566,7 +566,7 @@
       "sourceUrl": "https://www.mallesons.com/au/en/insights/latest-thinking.html?page=1",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-03T02:43:29.365Z",
+      "lastOkAt": "2026-11-03T12:34:01.995Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -764,7 +764,7 @@
       "sourceUrl": "https://www.gtlaw.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-03T02:43:29.365Z",
+      "lastOkAt": "2026-11-03T12:34:01.995Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1260,7 +1260,7 @@
       "sourceUrl": "https://www.claytonutz.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-03T02:43:29.365Z",
+      "lastOkAt": "2026-11-03T12:34:01.995Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1650,7 +1650,7 @@
       "sourceUrl": "https://www.ashurstperkinscoie.com/en/insights/all-insights/",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-03T02:43:29.365Z",
+      "lastOkAt": "2026-11-03T12:34:01.995Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2015,7 +2015,7 @@
       "sourceUrl": "https://www.bakermckenzie.com/en/insight",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-03T02:43:29.365Z",
+      "lastOkAt": "2026-11-03T12:34:01.995Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2181,7 +2181,7 @@
       "sourceUrl": "https://www.twobirds.com/en/insights",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-03T02:43:29.365Z",
+      "lastOkAt": "2026-11-03T12:34:01.995Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2499,7 +2499,7 @@
       "sourceUrl": "https://www.gadens.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-03T02:43:29.365Z",
+      "lastOkAt": "2026-11-03T12:34:01.995Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2814,7 +2814,7 @@
       "sourceUrl": "https://www.corrs.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-03T02:43:29.365Z",
+      "lastOkAt": "2026-11-03T12:34:01.995Z",
       "keptPrevious": false,
       "lastError": "insights page: HTTP 403",
       "records": [
@@ -2942,7 +2942,7 @@
       "sourceUrl": "https://www.dentons.com/en/insights?Filters=%26regionid%3D5CFDCB74SYDNE",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-03T02:43:29.365Z",
+      "lastOkAt": "2026-11-03T12:34:01.995Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3014,7 +3014,7 @@
       "sourceUrl": "https://www.maddocks.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-03T02:43:29.365Z",
+      "lastOkAt": "2026-11-03T12:34:01.995Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3761,7 +3761,7 @@
       "sourceUrl": "https://hallandwilcox.com.au/news/?service=15647",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-03T02:43:29.365Z",
+      "lastOkAt": "2026-11-03T12:34:01.995Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3943,10 +3943,46 @@
       "sourceUrl": "https://mk.com.au/news-insights/?expertise=competition-and-consumer",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-03T02:43:29.365Z",
+      "lastOkAt": "2026-11-03T12:34:01.995Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
+        {
+          "firm": "Macpherson Kelley",
+          "title": "From farm to boardroom: What Queensland businesses need to know about biosecurity",
+          "permalink": "https://mk.com.au/queensland-biosecurity-business-risk/",
+          "dateISO": "2026-10-29",
+          "dateText": "29 October 2026",
+          "month": "October 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Biosecurity is no longer just an agricultural issue. Under the Biosecurity Act 2014 (Qld), businesses must take all reasonable and practical measures to prevent or minimise biosecurity risks under their control, and a single…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Non-traditional trade marks in Australia: Why athletes and celebrities are protecting movements, sounds and voices",
+          "permalink": "https://mk.com.au/non-traditional-trade-marks-australia-athletes-celebrities/",
+          "dateISO": "2026-10-16",
+          "dateText": "16 October 2026",
+          "month": "October 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Trade marks are usually associated with business names, logos and slogans. But as personal brands become more valuable and generative AI makes it easier to copy a person’s voice, likeness and movements, celebrities and…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Macpherson Kelley",
           "title": "Australia’s merger control regime: What the latest amendments mean for businesses",
@@ -3960,6 +3996,204 @@
             "Mergers"
           ],
           "teaser": "Australia’s mandatory merger control regime commenced on 1 January 2026 and is now an important consideration for businesses contemplating acquisitions, mergers and consolidations. On 16 September 2026, Schedule 4 of the Treasury Laws Amendment…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Australia’s privacy reform is back in the spotlight: What businesses need to know about the 2026 exposure draft",
+          "permalink": "https://mk.com.au/australia-privacy-reforms-2026/",
+          "dateISO": "2026-10-05",
+          "dateText": "5 October 2026",
+          "month": "October 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Australia's privacy reform agenda remains firmly in focus following the release of the Australian Government's Exposure Draft Privacy Amendment (Personal Data Protection) Bill 2026 and accompanying Consultation Paper. The exposure draft contains a number…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Caldwell & Caldwell: A reminder, not a revolution",
+          "permalink": "https://mk.com.au/caldwell-caldwell-testamentary-trusts-family-law/",
+          "dateISO": "2026-09-21",
+          "dateText": "21 September 2026",
+          "month": "September 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Testamentary discretionary trusts remain powerful estate planning tools, but the Full Court’s decision in Caldwell & Caldwell is a reminder that control of any type of discretionary trust still matters. The majority found that…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "'Who arrives, who stays, who leaves': A guide to Australia's new migration reforms",
+          "permalink": "https://mk.com.au/australian-migration-reforms-2026-businesses-visa-holders/",
+          "dateISO": "2026-09-18",
+          "dateText": "18 September 2026",
+          "month": "September 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Home Affairs Minister Tony Burke has announced a raft of migration reforms aimed at cutting net overseas migration to 245,000 this financial year, with tighter rules for students, graduates, working holiday makers and visa…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Disney and NBCUniversal v Midjourney: Lessons for Australian businesses on AI copyright risk",
+          "permalink": "https://mk.com.au/midjourney-hollywood-ai-copyright-discovery-dispute/",
+          "dateISO": "2026-09-16",
+          "dateText": "16 September 2026",
+          "month": "September 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Midjourney is pushing back against Disney, NBCUniversal and Warner Bros' copyright claim by seeking discovery of the studios' own generative AI use, arguing it may be relevant to fair use and industry practice. The…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "The new EET election: Gifts from Santa, or Krampus?",
+          "permalink": "https://mk.com.au/new-eet-election-discretionary-trusts/",
+          "dateISO": "2026-09-08",
+          "dateText": "8 September 2026",
+          "month": "September 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "From 1 July 2028, discretionary trusts face a new 30% minimum tax, but a new Excluded Election Trust (EET) election offers a way out if trustees are willing to lock in fixed distributions to…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Macpherson Kelley strengthens Sydney Property team with senior appointment",
+          "permalink": "https://mk.com.au/macpherson-kelley-strengthens-sydney-property-team-with-senior-appointment/",
+          "dateISO": "2026-09-07",
+          "dateText": "7 September 2026",
+          "month": "September 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Macpherson Kelley is pleased to announce the appointment of Vincent Tripodina as a Principal Lawyer within the firm's Sydney Property team. Vincent is a highly experienced commercial property lawyer with almost two decades of…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "When software \"phones home\": The risks of software copyright infringement",
+          "permalink": "https://mk.com.au/when-software-phones-home/",
+          "dateISO": "2026-08-18",
+          "dateText": "18 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Software companies are increasingly using \"phone home\" technology to detect and report the use of unlicensed or cracked software, making it far easier to identify businesses that infringe copyright. This enforcement activity is particularly…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Family trusts and relationship breakdowns: Why control matters after Caldwell",
+          "permalink": "https://mk.com.au/family-trusts-and-relationship-breakdowns-why-control-matters-after-caldwell/",
+          "dateISO": "2026-08-17",
+          "dateText": "17 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Caldwell is a timely reminder that trust ownership is only part of the picture in family law proceedings. The Court's focus on practical control underscores the importance of appointor powers, trustee control and trust…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "When disclosure delays become liability: Lessons from Brambles, Crowley and Noumi",
+          "permalink": "https://mk.com.au/continuous-disclosure-lessons-brambles-crowley-noumi/",
+          "dateISO": "2026-08-12",
+          "dateText": "12 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Companies and their senior officers should take note of three significant decisions handed down in 2026. Together, these cases increase litigation and regulatory risks arising from continuous disclosure failures, while also highlighting circumstances in…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "What the rise in SMSFs means for estate planning and dispute resolution",
+          "permalink": "https://mk.com.au/what-the-rise-in-smsfs-means-for-estate-planning-and-dispute-resolution/",
+          "dateISO": "2026-07-22",
+          "dateText": "22 July 2026",
+          "month": "July 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Recent debate about the role of superannuation as a \"national asset\" has coincided with a continued increase in Australians establishing self-managed super funds (SMSFs). While many people are attracted by the greater control an…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "How Eminem lost part of his “Shady” trade mark rights in Australia",
+          "permalink": "https://mk.com.au/eminem-shady-trade-mark-rights-australia/",
+          "dateISO": "2026-07-20",
+          "dateText": "20 July 2026",
+          "month": "July 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Eminem has lost part of his Australian trade mark protection after IP Australia found insufficient evidence of genuine use of his “SHADY” and “SHADY LIMITED” marks for clothing, footwear, bags and related goods. The…",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -3986,6 +4220,96 @@
         },
         {
           "firm": "Macpherson Kelley",
+          "title": "Proposed trust tax reforms: Structuring considerations, opportunities and risks",
+          "permalink": "https://mk.com.au/proposed-trust-tax-reforms/",
+          "dateISO": "2026-07-15",
+          "dateText": "15 July 2026",
+          "month": "July 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Australia's proposed trust tax reforms could fundamentally change how advisers structure client affairs. While trusts may become less attractive for tax planning purposes, their asset protection benefits remain significant. The reforms also raise important…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "When is a sports suspension unreasonable? Ooi v Ice Hockey WA",
+          "permalink": "https://mk.com.au/when-is-a-sports-suspension-unreasonable/",
+          "dateISO": "2026-07-07",
+          "dateText": "7 July 2026",
+          "month": "July 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "The process of suspending a participant from a sport must be fair, and the suspension itself must be reasonable. Whether a suspension is fair depends on the subjective standards of the relevant sport, not…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "High Court refuses special leave: No implied right to terminate long-term commercial contracts",
+          "permalink": "https://mk.com.au/implied-termination-long-term-contracts-high-court-australia/",
+          "dateISO": "2026-06-29",
+          "dateText": "29 June 2026",
+          "month": "June 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Macpherson Kelley’s Brisbane Litigation team has secured a successful final outcome in a long-running commercial dispute on behalf of its client, Impact Healthcare Pty Ltd (Impact Healthcare). The High Court of Australia has refused…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Family Law and state taxes: Transfer duty on separation (NSW, QLD & SA)",
+          "permalink": "https://mk.com.au/transfer-duty-separation-nsw-qld-sa/",
+          "dateISO": "2026-06-25",
+          "dateText": "25 June 2026",
+          "month": "June 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Separating from a spouse or de facto partner often involves complex decisions about how property Is divided. In addition to family law considerations under the Family Law Act 1975 (Cth), separating couples must navigate…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "A flexible pathway for Complying Development Certificates",
+          "permalink": "https://mk.com.au/complying-development-variations-nsw/",
+          "dateISO": "2026-06-10",
+          "dateText": "10 June 2026",
+          "month": "June 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "As part of the proposed suite of planning reforms under the Planning System Reforms Act 2025 (NSW) (‘the Reforms Act’), the NSW Government has introduced a new complying development variations pathway. These reforms amend…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
           "title": "ACCC Horticulture Code enforcement: Record penalties signal tougher compliance expectations",
           "permalink": "https://mk.com.au/horticulture-code-compliance-accc/",
           "dateISO": "2026-06-09",
@@ -3998,6 +4322,24 @@
             "Enforcement & Penalties"
           ],
           "teaser": "The ACCC’s latest enforcement action against Fruitico and Fresh Express signals a clear shift from education to enforcement in the horticulture sector. Both traders have paid record infringement notice penalties for alleged breaches of…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Dua Lipa v Samsung: Lessons for Australian businesses on celebrity image rights",
+          "permalink": "https://mk.com.au/dua-lipa-v-samsung-lessons-for-australian-businesses-on-celebrity-image-rights/",
+          "dateISO": "2026-06-09",
+          "dateText": "9 June 2026",
+          "month": "June 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "In May 2026, British pop artist Dua Lipa filed a USD$15 million lawsuit against Samsung Electronics in California, alleging the company used her photograph on television packaging without consent or compensation. Samsung claims the…",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -4018,6 +4360,204 @@
             "Competition and Consumer Act"
           ],
           "teaser": "Recent amendments to the Competition and Consumer Act 2010 (Cth) introduce a more agile framework allowing the Australian Competition and Consumer Commission (ACCC) to respond to “exceptional circumstances”, such as pandemics, natural disasters or…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Macpherson Kelley strengthens Brisbane capability with senior litigation and private client appointments",
+          "permalink": "https://mk.com.au/macpherson-kelley-strengthens-brisbane-capability-with-senior-litigation-and-private-client-appointments/",
+          "dateISO": "2026-05-19",
+          "dateText": "19 May 2026",
+          "month": "May 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Macpherson Kelley is pleased to announce the appointment of Katrina Pagey as a Principal Lawyer in its Litigation & Dispute Resolution team, alongside Lucie Marsden who joins as Special Counsel in the firm’s Wills…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Procedural fairness in Australian sports tribunals: Ooi v Ice Hockey WA",
+          "permalink": "https://mk.com.au/procedural-fairness-in-australian-sports-tribunals-ooi-v-ice-hockey-wa-part-i/",
+          "dateISO": "2026-05-18",
+          "dateText": "18 May 2026",
+          "month": "May 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "The National Sports Tribunal (NST) has made it clear that where a domestic sports tribunal denies a participant procedural fairness, it may change the outcome. Domestic sports tribunals must be conducted so that participants…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Trust resolutions: where advisers are still getting caught",
+          "permalink": "https://mk.com.au/trust-resolutions-where-advisers-are-still-getting-caught/",
+          "dateISO": "2026-05-07",
+          "dateText": "7 May 2026",
+          "month": "May 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "As we move into annual tax planning season, trust resolutions continue to be one of the most common sources of downstream tax risk we see across private groups. While the fundamentals still matter, including…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Keeping pace: Technology in the workplace",
+          "permalink": "https://mk.com.au/keeping-pace-technology-in-the-workplace/",
+          "dateISO": "2026-05-05",
+          "dateText": "5 May 2026",
+          "month": "May 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Technology has been advancing rapidly in recent years, including a proliferation of the use of AI. Not unexpectedly, businesses are embracing these advancements, and finding ways to harness them to bring greater efficiencies, improvements…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Automated decision making and franchises: What you need to know before December 2026",
+          "permalink": "https://mk.com.au/automated-decision-making-and-franchises-what-you-need-to-know-before-december-2026/",
+          "dateISO": "2026-04-30",
+          "dateText": "30 April 2026",
+          "month": "April 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Automation is now a core feature of many franchise systems. Franchises employ pricing engines, performance dashboards, lead allocation tools, recruitment filters and customer loyalty platforms, which increasingly rely on algorithms, to streamline their operations….",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Star Entertainment director duties: Key lessons for boards and executives from ASIC v Bekier",
+          "permalink": "https://mk.com.au/star-entertainment-director-duties-key-lessons-for-boards-and-executives-from-asic-v-bekier/",
+          "dateISO": "2026-04-29",
+          "dateText": "29 April 2026",
+          "month": "April 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Regulators continue to focus closely on the conduct of boards and senior management during periods of heightened compliance and reputational risk. Recent decisions emphasise that failures in governance and information flow can have serious…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Fuel cost recovery in road transport: What the Fair Work Commission order means for delivery pricing",
+          "permalink": "https://mk.com.au/fuel-cost-recovery-in-road-transport-what-the-fair-work-commission-order-means-for-delivery-pricing/",
+          "dateISO": "2026-04-27",
+          "dateText": "27 April 2026",
+          "month": "April 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "In response to global conflict and fuel price volatility, the Fair Work Commission (Commission) issued the Road Transport Contractual Chain Order (Order), which sets urgent rules for fuel cost recovery in the road transport…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Macpherson Kelley appoints Principal Lawyer to Adelaide Wills & Estates team",
+          "permalink": "https://mk.com.au/macpherson-kelley-appoints-principal-lawyer-to-adelaide-wills-estates-team/",
+          "dateISO": "2026-04-23",
+          "dateText": "23 April 2026",
+          "month": "April 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Macpherson Kelley is pleased to announce the appointment of Tammy Sava as a Principal Lawyer in the firm’s Wills & Estates team, based in Adelaide. The addition of Tammy supports Macpherson Kelley’s continued investment…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Disclosure obligations for Queensland property developers: Off-the-plan sales explained",
+          "permalink": "https://mk.com.au/disclosure-obligations-for-queensland-property-developers-off-the-plan-sales-explained/",
+          "dateISO": "2026-04-22",
+          "dateText": "22 April 2026",
+          "month": "April 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Developers have long been subject to disclosure obligations when selling property ‘off-the-plan’. However, the introduction of Queensland’s new seller disclosure regime has highlighted important gaps in how disclosure requirements apply to proposed lots within…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Is your brand ready for advertising inside ChatGPT?",
+          "permalink": "https://mk.com.au/chatgpt-now-has-ads-what-businesses-need-to-know/",
+          "dateISO": "2026-04-15",
+          "dateText": "15 April 2026",
+          "month": "April 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "OpenAI has quietly but significantly updated its Privacy Policy to allow advertising within ChatGPT, signalling a shift in how one of the most widely used AI tools is monetised. For businesses, brand owners and…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "The FIRB regime: What foreign investors in technology need to know",
+          "permalink": "https://mk.com.au/the-firb-regime-what-foreign-investors-in-technology-need-to-know/",
+          "dateISO": "2026-04-08",
+          "dateText": "8 April 2026",
+          "month": "April 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Foreign investment in Australian technology is rarely “just another deal” anymore. Over recent years, the Australian Government’s foreign investment regime has evolved to balance facilitating investment from foreign parties with ensuring national security. This…",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -4061,6 +4601,331 @@
           "bullets": [],
           "overridden": false,
           "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Key changes to Australia’s skilled visa income threshold",
+          "permalink": "https://mk.com.au/key-changes-to-australias-skilled-visa-income-threshold/",
+          "dateISO": "2026-03-16",
+          "dateText": "16 March 2026",
+          "month": "March 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "The Australian Government has confirmed an increase to minimum salary requirements for the subclass 482 Skills in Demand visa, effective 1 July 2026, as part of the annual indexation linked to Average Weekly Ordinary…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "ASIC redacts officeholder data: What your business needs to know",
+          "permalink": "https://mk.com.au/asic-redacts-officeholder-data-what-your-business-needs-to-know/",
+          "dateISO": "2026-03-03",
+          "dateText": "3 March 2026",
+          "month": "March 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "The regulatory landscape is shifting again, with the Australian Securities and Investments Commission (ASIC) introducing changes to what information businesses can access about company directors and other officeholders. Under its RegistryConnect program, ASIC has now removed…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Bunnings faces off against the Privacy Commissioner over facial recognition technology",
+          "permalink": "https://mk.com.au/bunnings-faces-off-against-the-privacy-commissioner-over-facial-recognition-technology/",
+          "dateISO": "2026-02-23",
+          "dateText": "23 February 2026",
+          "month": "February 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "As Australian businesses increasingly turn to new technologies to mitigate risk, the boundaries of what is permissible under the Privacy Act 1988 (Cth) (Privacy Act) are being tested like never before. The recent Administrative…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Employer Statement: 2024-2025 WGEA Gender Pay Gap",
+          "permalink": "https://mk.com.au/employer-statement-2024-2025-wgea-gender-pay-gap/",
+          "dateISO": "2026-02-23",
+          "dateText": "23 February 2026",
+          "month": "February 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Macpherson Kelley, led by the Board and Executive, continues to prioritise the pursuit of continuous improvement and of these ideals and values within our firm. Pay gap improvements and ongoing pay equity achievements are…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Implied contract terms: Court of Appeal confirms no implied right for hospital to terminate long term emergency services agreement",
+          "permalink": "https://mk.com.au/implied-contract-terms-court-of-appeal-confirms-no-implied-right-for-hospital-to-terminate-long-term-emergency-services-agreement/",
+          "dateISO": "2026-02-23",
+          "dateText": "23 February 2026",
+          "month": "February 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Macpherson Kelley’s Brisbane Litigation team has achieved another positive result in Court, underlying the importance of explicit and well-drafted contract terms in long-term commercial agreements. Successfully representing Impact Healthcare Pty Ltd before the Queensland…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Navigating Australia’s new trade mark regulations",
+          "permalink": "https://mk.com.au/navigating-australias-new-trade-mark-regulations/",
+          "dateISO": "2026-02-19",
+          "dateText": "19 February 2026",
+          "month": "February 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Australia’s trade mark landscape is shifting, with new changes already in effect for 2026 following the introduction of the Trade Marks Amendment (International Registrations, Hearings and Oppositions) Regulations 2025 (IRHO Regulations). The IRHO Regulations…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Family Law and Victorian state taxes: What separating couples and their advisors need to know",
+          "permalink": "https://mk.com.au/family-law-and-victorian-state-taxes-what-separating-couples-and-their-advisors-need-to-know/",
+          "dateISO": "2026-02-17",
+          "dateText": "17 February 2026",
+          "month": "February 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Separating from a spouse or de facto partner is stressful enough without unexpected tax bills complicating matters. In Victoria, the intersection between family law and state taxes, particularly stamp duty and land tax, often…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Automated Decision Making: Business obligations, risks and strategic responses to new reforms",
+          "permalink": "https://mk.com.au/automated-decision-making-business-obligations-risks-and-strategic-responses-to-new-reforms/",
+          "dateISO": "2026-02-12",
+          "dateText": "12 February 2026",
+          "month": "February 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "New privacy reforms are on the horizon in Australia, introducing additional obligations around Automated Decision-Making. As discussed in an earlier insight, from 10 December 2026, any business that is an Australian Privacy Principle (APP)…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Voluntary dealings with regulators: Practical insights, tips & traps for agribusinesses",
+          "permalink": "https://mk.com.au/voluntary-dealings-with-regulators-practical-insights-tips-traps-for-agribusinesses/",
+          "dateISO": "2026-02-12",
+          "dateText": "12 February 2026",
+          "month": "February 2026",
+          "year": 2026,
+          "topic": "Competition, ACCC",
+          "topics": [
+            "Competition",
+            "ACCC"
+          ],
+          "teaser": "Agribusiness is a highly regulated industry, with many interacting with various regulators such as the Australian Competition and Consumer Commission (ACCC) and the Australian Pesticides and Veterinary Medicines Authority (APVMA). These interactions can arise…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Can a respondent claim the Companion Principle? Defending a tech company’s confidential information in court",
+          "permalink": "https://mk.com.au/can-a-respondent-claim-the-companion-principle-defending-a-tech-companys-confidential-information-in-court/",
+          "dateISO": "2026-02-09",
+          "dateText": "9 February 2026",
+          "month": "February 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "When a company owns technology that differentiates its product from competitors on the market, confidential information related to that tech and the clients that use it, is invaluable. Technology companies are particularly vulnerable when…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "A change of director can trigger landholder duty says Victorian Supreme Court",
+          "permalink": "https://mk.com.au/a-change-of-director-can-trigger-landholder-duty-says-victorian-supreme-court/",
+          "dateISO": "2026-02-06",
+          "dateText": "6 February 2026",
+          "month": "February 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "If you own or advise on property held in companies or unit trusts, then Tao v Commissioner of State Revenue [2025] VSC 831, has a significant message for you. The decision affirms that changing…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Clarifying the boundaries of trade mark defences: The Fanatics case as a cautionary tale",
+          "permalink": "https://mk.com.au/clarifying-the-boundaries-of-trade-mark-defences-the-fanatics-case-as-a-cautionary-tale/",
+          "dateISO": "2026-02-03",
+          "dateText": "3 February 2026",
+          "month": "February 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Trade mark disputes in Australia continue to test the limits of statutory defences, particularly where competing businesses operate under similar branding in overlapping markets. The recent Full Court decision in Fanatics, LLC v FanFirm…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "PPS refresher: Key risks and exposures for agribusinesses in 2026",
+          "permalink": "https://mk.com.au/pps-refresher-key-risks-and-exposures-for-agribusinesses-in-2026/",
+          "dateISO": "2026-02-02",
+          "dateText": "2 February 2026",
+          "month": "February 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Anyone working in agriculture would know the incredible value of the land they farm, the farm inputs they supply, the crops they grow, the animals they raise, and the equipment they use to produce…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Five key issues re-shaping agriculture contracts in Australia",
+          "permalink": "https://mk.com.au/five-key-issues-re-shaping-agriculture-contracts-in-australia/",
+          "dateISO": "2026-01-29",
+          "dateText": "29 January 2026",
+          "month": "January 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "As Australia moves deeper into 2026, agricultural businesses are navigating one of the most dynamic operating environments seen in years. Volatile input costs, shifting climate conditions, regulatory change and increasingly complex supply chains are…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Automated Decision-Making: Current privacy obligations and what’s in the pipeline for 2026",
+          "permalink": "https://mk.com.au/automated-decision-making-current-privacy-obligations-and-whats-in-the-pipeline-for-2026/",
+          "dateISO": "2026-01-22",
+          "dateText": "22 January 2026",
+          "month": "January 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "The accelerating integration of autonomous systems into corporate value chains is transforming how business decisions are made, data are moved, and how value is created. On 10 December 2026, the Privacy and Other Legislation…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Reputation, risk, and rigor: Honest concurrent use in a post-Killer Queen era",
+          "permalink": "https://mk.com.au/reputation-risk-and-rigor-honest-concurrent-use-in-a-post-killer-queen-era/",
+          "dateISO": "2026-01-21",
+          "dateText": "21 January 2026",
+          "month": "January 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "The long-running trade mark dispute between an Australian designer and American singer Katy Perry is being widely discussed amongst lawyers and media alike, with the Full Court of the Federal Court of Australia recently…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Price check on employee salaries: Lessons from the Coles and Woolworths underpayment litigation",
+          "permalink": "https://mk.com.au/price-check-on-employee-salaries-lessons-from-the-coles-and-woolworths-underpayment-litigation/",
+          "dateISO": "2026-01-20",
+          "dateText": "20 January 2026",
+          "month": "January 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Towards the end of last year, the Federal Court of Australia delivered its highly anticipated decision relating to underpayment allegations made against Woolworths and Coles by the Fair Work Ombudsman and various salaried employees….",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Macpherson Kelley",
+          "title": "Mandatory Climate Reporting: Lessons from Group 1",
+          "permalink": "https://mk.com.au/mandatory-climate-reporting-lessons-from-group-1/",
+          "dateISO": "2026-01-14",
+          "dateText": "14 January 2026",
+          "month": "January 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "In 2024, the Treasury Laws Amendment (Financial Market Infrastructure and Other Measures) Act 2024 amended the Corporations Act 2001, arguably making Australia a global leader in sustainability reporting. The first group of reporting entities…",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
         }
       ]
     },
@@ -4075,7 +4940,7 @@
       "sourceUrl": "https://www.millsoakley.com.au/recent-insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-03T02:43:29.365Z",
+      "lastOkAt": "2026-11-03T12:34:01.995Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
