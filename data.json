@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-04T12:47:05.962Z",
-  "lastCheckedAt": "2026-11-04T20:22:20.812Z",
-  "recordCount": 210,
+  "generatedAt": "2026-11-05T01:14:33.488Z",
+  "lastCheckedAt": "2026-11-05T01:14:33.488Z",
+  "recordCount": 219,
   "firms": [
     {
       "name": "Addisons",
@@ -14,7 +14,7 @@
       "sourceUrl": "https://addisons.com/insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-04T20:19:01.338Z",
+      "lastOkAt": "2026-11-05T01:11:45.714Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -309,8 +309,8 @@
       "domestic": true,
       "manualOnly": false,
       "lastOkAt": "2026-11-04T20:19:01.338Z",
-      "keptPrevious": false,
-      "lastError": null,
+      "keptPrevious": true,
+      "lastError": "Returned no articles; kept the previous list",
       "records": [
         {
           "firm": "Allens",
@@ -567,8 +567,8 @@
       "domestic": true,
       "manualOnly": false,
       "lastOkAt": "2026-11-04T20:19:01.338Z",
-      "keptPrevious": false,
-      "lastError": null,
+      "keptPrevious": true,
+      "lastError": "Cloudflare challenge not passed",
       "records": [
         {
           "firm": "Mallesons",
@@ -764,7 +764,7 @@
       "sourceUrl": "https://www.gtlaw.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-04T20:19:01.338Z",
+      "lastOkAt": "2026-11-05T01:11:45.714Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1260,7 +1260,7 @@
       "sourceUrl": "https://www.claytonutz.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-04T20:19:01.338Z",
+      "lastOkAt": "2026-11-05T01:11:45.714Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1650,7 +1650,7 @@
       "sourceUrl": "https://www.ashurstperkinscoie.com/en/insights/all-insights/",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-04T20:19:01.338Z",
+      "lastOkAt": "2026-11-05T01:11:45.714Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2015,7 +2015,7 @@
       "sourceUrl": "https://www.bakermckenzie.com/en/insight",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-04T20:19:01.338Z",
+      "lastOkAt": "2026-11-05T01:11:45.714Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2032,6 +2032,114 @@
             "Competition & Consumer"
           ],
           "teaser": "The Federal Government has released long-awaited draft laws to ban non-competes. We explore what the proposed changes mean for employers.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia Charts a New Course on AI Regulation and Policy",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-charts-a-new-course-on-ai-regulation-and-policy",
+          "dateISO": "2026-08-25",
+          "dateText": "25 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Recent developments in Australia indicate that AI-specific regulation is on the horizon and identify areas of law primed for AI-specific reform.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia: Three Things Every Tech Founder Must Nail (Part 2)",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-tech-founder-series",
+          "dateISO": "2026-08-13",
+          "dateText": "13 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Practical legal lessons for tech founders to help avoid disputes, regulatory headaches and costly mistakes as they scale.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia: Five Things Every Tech Founder Must Nail",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-five-things-every-tech-founder-must-nail",
+          "dateISO": "2026-07-28",
+          "dateText": "28 July 2026",
+          "month": "July 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Tech founders should address key employment law risks early to help avoid costly disputes, build a stronger foundation for growth, and set up for future divestment.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia: New Modern Slavery Offence Proposed",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-new-modern-slavery-offence-proposed",
+          "dateISO": "2026-07-20",
+          "dateText": "20 July 2026",
+          "month": "July 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Australia plans tougher modern slavery laws, including a new failure-to-prevent offence",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia: AI Workplace Change – Managing Risks without Regret",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-ai-workplace-change-managing-risks-without-regret",
+          "dateISO": "2026-07-17",
+          "dateText": "17 July 2026",
+          "month": "July 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "As AI transforms workplaces, employers must navigate redundancy, consultation and psychosocial risk obligations carefully",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia: Victorian Right to Work from Home",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-victorian-right-to-work-from-home",
+          "dateISO": "2026-07-14",
+          "dateText": "14 July 2026",
+          "month": "July 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Victorian Bill introduces an employee right to work from home.",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -2166,6 +2274,24 @@
           "bullets": [],
           "overridden": false,
           "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia: Digital Services Regulation – 2025 Year-End Wrap-Up",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/01/australia-digital-services-regulation",
+          "dateISO": "2026-01-21",
+          "dateText": "21 January 2026",
+          "month": "January 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Australian digital services regulatory developments for late 2025, including SMMA, online safety codes, digital duty of care, and anti-scam reforms.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
         }
       ]
     },
@@ -2181,7 +2307,7 @@
       "sourceUrl": "https://www.twobirds.com/en/insights",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-04T20:19:01.338Z",
+      "lastOkAt": "2026-11-05T01:11:45.714Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2499,7 +2625,7 @@
       "sourceUrl": "https://www.gadens.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-04T20:19:01.338Z",
+      "lastOkAt": "2026-11-05T01:11:45.714Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2814,10 +2940,46 @@
       "sourceUrl": "https://www.corrs.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-04T20:19:01.338Z",
+      "lastOkAt": "2026-11-05T01:11:45.714Z",
       "keptPrevious": false,
-      "lastError": "insights page: HTTP 403",
+      "lastError": null,
       "records": [
+        {
+          "firm": "Corrs Chambers Westgarth",
+          "title": "Startup investment: what founders and investors need to know about FIRB and ACCC",
+          "permalink": "https://www.corrs.com.au/insights/startup-investment-what-founders-and-investors-need-to-know-about-firb-and-accc",
+          "dateISO": "2026-10-19",
+          "dateText": "19 October 2026",
+          "month": "October 2026",
+          "year": 2026,
+          "topic": "ACCC",
+          "topics": [
+            "ACCC"
+          ],
+          "teaser": "",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Corrs Chambers Westgarth",
+          "title": "Merger reform update: critical amendments to Australia’s merger regime passed by Parliament",
+          "permalink": "https://www.corrs.com.au/insights/merger-reform-update-critical-amendments-to-australias-merger-regime-passed-by-parliament",
+          "dateISO": "2026-09-11",
+          "dateText": "11 September 2026",
+          "month": "September 2026",
+          "year": 2026,
+          "topic": "Mergers",
+          "topics": [
+            "Mergers"
+          ],
+          "teaser": "",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Corrs Chambers Westgarth",
           "title": "Information, oversight and modern duty of care: governance lessons from ASIC v Star directors and officers",
@@ -2942,7 +3104,7 @@
       "sourceUrl": "https://www.dentons.com/en/insights?Filters=%26regionid%3D5CFDCB74SYDNE",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-04T20:19:01.338Z",
+      "lastOkAt": "2026-11-05T01:11:45.714Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3014,7 +3176,7 @@
       "sourceUrl": "https://www.maddocks.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-04T20:19:01.338Z",
+      "lastOkAt": "2026-11-05T01:11:45.714Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3761,7 +3923,7 @@
       "sourceUrl": "https://hallandwilcox.com.au/news/?service=15647",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-04T20:19:01.338Z",
+      "lastOkAt": "2026-11-05T01:11:45.714Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3943,7 +4105,7 @@
       "sourceUrl": "https://mk.com.au/news-insights/?expertise=competition-and-consumer",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-04T20:19:01.338Z",
+      "lastOkAt": "2026-11-05T01:11:45.714Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -4075,7 +4237,7 @@
       "sourceUrl": "https://www.millsoakley.com.au/recent-insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-04T20:19:01.338Z",
+      "lastOkAt": "2026-11-05T01:11:45.714Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
