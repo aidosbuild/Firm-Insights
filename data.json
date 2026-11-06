@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-05T12:56:32.525Z",
-  "lastCheckedAt": "2026-11-06T01:20:28.393Z",
-  "recordCount": 212,
+  "generatedAt": "2026-11-06T12:42:49.142Z",
+  "lastCheckedAt": "2026-11-06T12:42:49.142Z",
+  "recordCount": 213,
   "firms": [
     {
       "name": "Addisons",
@@ -14,7 +14,7 @@
       "sourceUrl": "https://addisons.com/insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-06T01:17:05.767Z",
+      "lastOkAt": "2026-11-06T12:39:48.840Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -308,7 +308,7 @@
       "sourceUrl": "https://www.allens.com.au/insights-news/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-06T01:17:05.767Z",
+      "lastOkAt": "2026-11-06T12:39:48.840Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -566,9 +566,9 @@
       "sourceUrl": "https://www.mallesons.com/au/en/insights/latest-thinking.html?page=1",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-05T20:29:53.989Z",
-      "keptPrevious": true,
-      "lastError": "Cloudflare challenge not passed",
+      "lastOkAt": "2026-11-06T12:39:48.840Z",
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
         {
           "firm": "Mallesons",
@@ -764,7 +764,7 @@
       "sourceUrl": "https://www.gtlaw.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-06T01:17:05.767Z",
+      "lastOkAt": "2026-11-06T12:39:48.840Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1260,7 +1260,7 @@
       "sourceUrl": "https://www.claytonutz.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-06T01:17:05.767Z",
+      "lastOkAt": "2026-11-06T12:39:48.840Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1650,7 +1650,7 @@
       "sourceUrl": "https://www.ashurstperkinscoie.com/en/insights/all-insights/",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-06T01:17:05.767Z",
+      "lastOkAt": "2026-11-06T12:39:48.840Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2015,7 +2015,7 @@
       "sourceUrl": "https://www.bakermckenzie.com/en/insight",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-06T01:17:05.767Z",
+      "lastOkAt": "2026-11-06T12:39:48.840Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2181,7 +2181,7 @@
       "sourceUrl": "https://www.twobirds.com/en/insights",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-06T01:17:05.767Z",
+      "lastOkAt": "2026-11-06T12:39:48.840Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2499,10 +2499,28 @@
       "sourceUrl": "https://www.gadens.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-06T01:17:05.767Z",
+      "lastOkAt": "2026-11-06T12:39:48.840Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
+        {
+          "firm": "Gadens",
+          "title": "As breaches grow and frontier AI sharpens cyber threats, transparency on ADM has never mattered more",
+          "permalink": "https://www.gadens.com/insights/five-weeks-to-10-december-as-breaches-grow-and-frontier-ai-sharpens-cyber-threats,-transparency-on-adm-has-never-mattered-more",
+          "dateISO": "2026-11-06",
+          "dateText": "6 November 2026",
+          "month": "November 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "With new automated decision-making transparency obligations commencing on 10 December 2026, we outline what organisations need to know and the practical steps to prepare.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Gadens",
           "title": "Australian Government proposes significant reforms to non-competes and labour market competition",
@@ -2814,7 +2832,7 @@
       "sourceUrl": "https://www.corrs.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-06T01:17:05.767Z",
+      "lastOkAt": "2026-11-06T12:39:48.840Z",
       "keptPrevious": false,
       "lastError": "insights page: HTTP 403",
       "records": [
@@ -2942,7 +2960,7 @@
       "sourceUrl": "https://www.dentons.com/en/insights?Filters=%26regionid%3D5CFDCB74SYDNE",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-06T01:17:05.767Z",
+      "lastOkAt": "2026-11-06T12:39:48.840Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3014,7 +3032,7 @@
       "sourceUrl": "https://www.maddocks.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-06T01:17:05.767Z",
+      "lastOkAt": "2026-11-06T12:39:48.840Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3797,7 +3815,7 @@
       "sourceUrl": "https://hallandwilcox.com.au/news/?service=15647",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-06T01:17:05.767Z",
+      "lastOkAt": "2026-11-06T12:39:48.840Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3979,7 +3997,7 @@
       "sourceUrl": "https://mk.com.au/news-insights/?expertise=competition-and-consumer",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-06T01:17:05.767Z",
+      "lastOkAt": "2026-11-06T12:39:48.840Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -4112,8 +4130,8 @@
       "domestic": true,
       "manualOnly": false,
       "lastOkAt": "2026-11-06T01:17:05.767Z",
-      "keptPrevious": false,
-      "lastError": null,
+      "keptPrevious": true,
+      "lastError": "practice feed: Unexpected token '<', \"<html><hea\"... is not valid JSON; recent page 1: Unexpected token '<', \"<html><hea\"... is not valid JSON",
       "records": [
         {
           "firm": "Mills Oakley",
