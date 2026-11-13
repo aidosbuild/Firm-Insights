@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-13T01:38:36.301Z",
-  "lastCheckedAt": "2026-11-13T01:38:36.301Z",
-  "recordCount": 216,
+  "generatedAt": "2026-11-13T12:48:57.937Z",
+  "lastCheckedAt": "2026-11-13T12:48:57.937Z",
+  "recordCount": 214,
   "firms": [
     {
       "name": "Addisons",
@@ -14,7 +14,7 @@
       "sourceUrl": "https://addisons.com/insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T01:35:40.364Z",
+      "lastOkAt": "2026-11-13T12:46:06.538Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -308,9 +308,9 @@
       "sourceUrl": "https://www.allens.com.au/insights-news/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-12T20:41:06.945Z",
-      "keptPrevious": true,
-      "lastError": "Returned no articles; kept the previous list",
+      "lastOkAt": "2026-11-13T12:46:06.538Z",
+      "keptPrevious": false,
+      "lastError": null,
       "records": [
         {
           "firm": "Allens",
@@ -566,7 +566,7 @@
       "sourceUrl": "https://www.mallesons.com/au/en/insights/latest-thinking.html?page=1",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T01:35:40.364Z",
+      "lastOkAt": "2026-11-13T12:46:06.538Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -764,7 +764,7 @@
       "sourceUrl": "https://www.gtlaw.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T01:35:40.364Z",
+      "lastOkAt": "2026-11-13T12:46:06.538Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1260,7 +1260,7 @@
       "sourceUrl": "https://www.claytonutz.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T01:35:40.364Z",
+      "lastOkAt": "2026-11-13T12:46:06.538Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1650,7 +1650,7 @@
       "sourceUrl": "https://www.ashurstperkinscoie.com/en/insights/all-insights/",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T01:35:40.364Z",
+      "lastOkAt": "2026-11-13T12:46:06.538Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2015,7 +2015,7 @@
       "sourceUrl": "https://www.bakermckenzie.com/en/insight",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T01:35:40.364Z",
+      "lastOkAt": "2026-11-13T12:46:06.538Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2181,7 +2181,7 @@
       "sourceUrl": "https://www.twobirds.com/en/insights",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T01:35:40.364Z",
+      "lastOkAt": "2026-11-13T12:46:06.538Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2499,7 +2499,7 @@
       "sourceUrl": "https://www.gadens.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T01:35:40.364Z",
+      "lastOkAt": "2026-11-13T12:46:06.538Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2832,46 +2832,10 @@
       "sourceUrl": "https://www.corrs.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T01:35:40.364Z",
+      "lastOkAt": "2026-11-13T12:46:06.538Z",
       "keptPrevious": false,
-      "lastError": null,
+      "lastError": "insights page: HTTP 403",
       "records": [
-        {
-          "firm": "Corrs Chambers Westgarth",
-          "title": "Startup investment: what founders and investors need to know about FIRB and ACCC",
-          "permalink": "https://www.corrs.com.au/insights/startup-investment-what-founders-and-investors-need-to-know-about-firb-and-accc",
-          "dateISO": "2026-10-19",
-          "dateText": "19 October 2026",
-          "month": "October 2026",
-          "year": 2026,
-          "topic": "ACCC",
-          "topics": [
-            "ACCC"
-          ],
-          "teaser": "",
-          "summary": "",
-          "bullets": [],
-          "overridden": false,
-          "notes": ""
-        },
-        {
-          "firm": "Corrs Chambers Westgarth",
-          "title": "Merger reform update: critical amendments to Australia’s merger regime passed by Parliament",
-          "permalink": "https://www.corrs.com.au/insights/merger-reform-update-critical-amendments-to-australias-merger-regime-passed-by-parliament",
-          "dateISO": "2026-09-11",
-          "dateText": "11 September 2026",
-          "month": "September 2026",
-          "year": 2026,
-          "topic": "Mergers",
-          "topics": [
-            "Mergers"
-          ],
-          "teaser": "",
-          "summary": "",
-          "bullets": [],
-          "overridden": false,
-          "notes": ""
-        },
         {
           "firm": "Corrs Chambers Westgarth",
           "title": "Information, oversight and modern duty of care: governance lessons from ASIC v Star directors and officers",
@@ -2996,7 +2960,7 @@
       "sourceUrl": "https://www.dentons.com/en/insights?Filters=%26regionid%3D5CFDCB74SYDNE",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T01:35:40.364Z",
+      "lastOkAt": "2026-11-13T12:46:06.538Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3068,7 +3032,7 @@
       "sourceUrl": "https://www.maddocks.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T01:35:40.364Z",
+      "lastOkAt": "2026-11-13T12:46:06.538Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3869,7 +3833,7 @@
       "sourceUrl": "https://hallandwilcox.com.au/news/?service=15647",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T01:35:40.364Z",
+      "lastOkAt": "2026-11-13T12:46:06.538Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -4051,7 +4015,7 @@
       "sourceUrl": "https://mk.com.au/news-insights/?expertise=competition-and-consumer",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T01:35:40.364Z",
+      "lastOkAt": "2026-11-13T12:46:06.538Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -4183,7 +4147,7 @@
       "sourceUrl": "https://www.millsoakley.com.au/recent-insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T01:35:40.364Z",
+      "lastOkAt": "2026-11-13T12:46:06.538Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
