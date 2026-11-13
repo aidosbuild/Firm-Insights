@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-13T12:48:57.937Z",
-  "lastCheckedAt": "2026-11-13T12:48:57.937Z",
-  "recordCount": 214,
+  "generatedAt": "2026-11-13T20:25:40.775Z",
+  "lastCheckedAt": "2026-11-13T20:25:40.775Z",
+  "recordCount": 216,
   "firms": [
     {
       "name": "Addisons",
@@ -14,7 +14,7 @@
       "sourceUrl": "https://addisons.com/insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T12:46:06.538Z",
+      "lastOkAt": "2026-11-13T20:22:27.426Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -308,7 +308,7 @@
       "sourceUrl": "https://www.allens.com.au/insights-news/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T12:46:06.538Z",
+      "lastOkAt": "2026-11-13T20:22:27.426Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -566,7 +566,7 @@
       "sourceUrl": "https://www.mallesons.com/au/en/insights/latest-thinking.html?page=1",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T12:46:06.538Z",
+      "lastOkAt": "2026-11-13T20:22:27.426Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -764,7 +764,7 @@
       "sourceUrl": "https://www.gtlaw.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T12:46:06.538Z",
+      "lastOkAt": "2026-11-13T20:22:27.426Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1260,7 +1260,7 @@
       "sourceUrl": "https://www.claytonutz.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T12:46:06.538Z",
+      "lastOkAt": "2026-11-13T20:22:27.426Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1650,7 +1650,7 @@
       "sourceUrl": "https://www.ashurstperkinscoie.com/en/insights/all-insights/",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T12:46:06.538Z",
+      "lastOkAt": "2026-11-13T20:22:27.426Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2015,7 +2015,7 @@
       "sourceUrl": "https://www.bakermckenzie.com/en/insight",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T12:46:06.538Z",
+      "lastOkAt": "2026-11-13T20:22:27.426Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2032,6 +2032,42 @@
             "Competition & Consumer"
           ],
           "teaser": "The Federal Government has released long-awaited draft laws to ban non-competes. We explore what the proposed changes mean for employers.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia: Three Things Every Tech Founder Must Nail (Part 2)",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-tech-founder-series",
+          "dateISO": "2026-08-13",
+          "dateText": "13 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Practical legal lessons for tech founders to help avoid disputes, regulatory headaches and costly mistakes as they scale.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia: New Modern Slavery Offence Proposed",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/07/australia-new-modern-slavery-offence-proposed",
+          "dateISO": "2026-07-20",
+          "dateText": "20 July 2026",
+          "month": "July 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Australia plans tougher modern slavery laws, including a new failure-to-prevent offence",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -2181,7 +2217,7 @@
       "sourceUrl": "https://www.twobirds.com/en/insights",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T12:46:06.538Z",
+      "lastOkAt": "2026-11-13T20:22:27.426Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2499,7 +2535,7 @@
       "sourceUrl": "https://www.gadens.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T12:46:06.538Z",
+      "lastOkAt": "2026-11-13T20:22:27.426Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2832,7 +2868,7 @@
       "sourceUrl": "https://www.corrs.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T12:46:06.538Z",
+      "lastOkAt": "2026-11-13T20:22:27.426Z",
       "keptPrevious": false,
       "lastError": "insights page: HTTP 403",
       "records": [
@@ -2960,7 +2996,7 @@
       "sourceUrl": "https://www.dentons.com/en/insights?Filters=%26regionid%3D5CFDCB74SYDNE",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T12:46:06.538Z",
+      "lastOkAt": "2026-11-13T20:22:27.426Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3032,7 +3068,7 @@
       "sourceUrl": "https://www.maddocks.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T12:46:06.538Z",
+      "lastOkAt": "2026-11-13T20:22:27.426Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3833,7 +3869,7 @@
       "sourceUrl": "https://hallandwilcox.com.au/news/?service=15647",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T12:46:06.538Z",
+      "lastOkAt": "2026-11-13T20:22:27.426Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -4015,7 +4051,7 @@
       "sourceUrl": "https://mk.com.au/news-insights/?expertise=competition-and-consumer",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T12:46:06.538Z",
+      "lastOkAt": "2026-11-13T20:22:27.426Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -4147,7 +4183,7 @@
       "sourceUrl": "https://www.millsoakley.com.au/recent-insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-13T12:46:06.538Z",
+      "lastOkAt": "2026-11-13T20:22:27.426Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
