@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-18T02:43:48.379Z",
-  "lastCheckedAt": "2026-11-18T02:43:48.379Z",
-  "recordCount": 222,
+  "generatedAt": "2026-11-18T13:42:55.107Z",
+  "lastCheckedAt": "2026-11-18T13:42:55.107Z",
+  "recordCount": 226,
   "firms": [
     {
       "name": "Addisons",
@@ -14,7 +14,7 @@
       "sourceUrl": "https://addisons.com/insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-18T02:40:37.856Z",
+      "lastOkAt": "2026-11-18T13:39:21.033Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -308,7 +308,7 @@
       "sourceUrl": "https://www.allens.com.au/insights-news/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-18T02:40:37.856Z",
+      "lastOkAt": "2026-11-18T13:39:21.033Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -566,7 +566,7 @@
       "sourceUrl": "https://www.mallesons.com/au/en/insights/latest-thinking.html?page=1",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-18T02:40:37.856Z",
+      "lastOkAt": "2026-11-18T13:39:21.033Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -764,7 +764,7 @@
       "sourceUrl": "https://www.gtlaw.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-18T02:40:37.856Z",
+      "lastOkAt": "2026-11-18T13:39:21.033Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1260,7 +1260,7 @@
       "sourceUrl": "https://www.claytonutz.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-18T02:40:37.856Z",
+      "lastOkAt": "2026-11-18T13:39:21.033Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1650,7 +1650,7 @@
       "sourceUrl": "https://www.ashurstperkinscoie.com/en/insights/all-insights/",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-18T02:40:37.856Z",
+      "lastOkAt": "2026-11-18T13:39:21.033Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2015,7 +2015,7 @@
       "sourceUrl": "https://www.bakermckenzie.com/en/insight",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-18T02:40:37.856Z",
+      "lastOkAt": "2026-11-18T13:39:21.033Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2181,7 +2181,7 @@
       "sourceUrl": "https://www.twobirds.com/en/insights",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-18T02:40:37.856Z",
+      "lastOkAt": "2026-11-18T13:39:21.033Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2499,7 +2499,7 @@
       "sourceUrl": "https://www.gadens.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-18T02:40:37.856Z",
+      "lastOkAt": "2026-11-18T13:39:21.033Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2984,10 +2984,82 @@
       "sourceUrl": "https://www.corrs.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-18T02:40:37.856Z",
+      "lastOkAt": "2026-11-18T13:39:21.033Z",
       "keptPrevious": false,
-      "lastError": "insights page: HTTP 403",
+      "lastError": null,
       "records": [
+        {
+          "firm": "Corrs Chambers Westgarth",
+          "title": "Australia’s new merger control regime: one year on",
+          "permalink": "https://www.corrs.com.au/insights/australias-new-merger-control-regime-one-year-on",
+          "dateISO": "2026-11-17",
+          "dateText": "17 November 2026",
+          "month": "November 2026",
+          "year": 2026,
+          "topic": "Mergers",
+          "topics": [
+            "Mergers"
+          ],
+          "teaser": "",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Corrs Chambers Westgarth",
+          "title": "Pressure and opportunity: distressed M&A in 2027",
+          "permalink": "https://www.corrs.com.au/insights/pressure-and-opportunity-distressed-m-a-in-2027",
+          "dateISO": "2026-11-17",
+          "dateText": "17 November 2026",
+          "month": "November 2026",
+          "year": 2026,
+          "topic": "Mergers",
+          "topics": [
+            "Mergers"
+          ],
+          "teaser": "",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Corrs Chambers Westgarth",
+          "title": "The forces reshaping mining M&A in 2027",
+          "permalink": "https://www.corrs.com.au/insights/the-forces-reshaping-mining-m-a-in-2027",
+          "dateISO": "2026-11-17",
+          "dateText": "17 November 2026",
+          "month": "November 2026",
+          "year": 2026,
+          "topic": "Mergers",
+          "topics": [
+            "Mergers"
+          ],
+          "teaser": "",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Corrs Chambers Westgarth",
+          "title": "Startup investment: what founders and investors need to know about FIRB and ACCC",
+          "permalink": "https://www.corrs.com.au/insights/startup-investment-what-founders-and-investors-need-to-know-about-firb-and-accc",
+          "dateISO": "2026-10-19",
+          "dateText": "19 October 2026",
+          "month": "October 2026",
+          "year": 2026,
+          "topic": "ACCC",
+          "topics": [
+            "ACCC"
+          ],
+          "teaser": "",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Corrs Chambers Westgarth",
           "title": "Information, oversight and modern duty of care: governance lessons from ASIC v Star directors and officers",
@@ -3112,10 +3184,30 @@
       "sourceUrl": "https://www.dentons.com/en/insights?Filters=%26regionid%3D5CFDCB74SYDNE",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-18T02:40:37.856Z",
+      "lastOkAt": "2026-11-18T13:39:21.033Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
+        {
+          "firm": "Dentons",
+          "title": "Doing business in Australia - Competition and consumer law",
+          "permalink": "https://www.dentons.com/en/insights/articles/2024/november/18/competition-and-consumer-law",
+          "dateISO": "2026-11-19",
+          "dateText": "19 November 2026",
+          "month": "November 2026",
+          "year": 2026,
+          "topic": "Competition, ACCC, Consumer Law",
+          "topics": [
+            "Competition",
+            "ACCC",
+            "Consumer Law"
+          ],
+          "teaser": "Australia: Australia's competition laws, enforced by the Australian Competition and Consumer Commission (ACCC), apply to both domestic and international companies operating in Australia and prohibit a range of anti-competitive practices",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Dentons",
           "title": "Tax, FIRB and true sale: legal constraints shaping Australian data centre securitisation",
@@ -3184,7 +3276,7 @@
       "sourceUrl": "https://www.maddocks.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-18T02:40:37.856Z",
+      "lastOkAt": "2026-11-18T13:39:21.033Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3985,7 +4077,7 @@
       "sourceUrl": "https://hallandwilcox.com.au/news/?service=15647",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-18T02:40:37.856Z",
+      "lastOkAt": "2026-11-18T13:39:21.033Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -4120,24 +4212,6 @@
         },
         {
           "firm": "Hall & Wilcox",
-          "title": "Pay now, argue later: Security of Payment regime survives ACL challenge",
-          "permalink": "https://hallandwilcox.com.au/news/pay-now-argue-later-security-of-payment-regime-survives-acl-challenge/",
-          "dateISO": "2026-07-07",
-          "dateText": "7 July 2026",
-          "month": "July 2026",
-          "year": 2026,
-          "topic": "Consumer Law",
-          "topics": [
-            "Consumer Law"
-          ],
-          "teaser": "",
-          "summary": "",
-          "bullets": [],
-          "overridden": false,
-          "notes": ""
-        },
-        {
-          "firm": "Hall & Wilcox",
           "title": "Assessing the first 100 days of Australia's new merger regime",
           "permalink": "https://hallandwilcox.com.au/news/assessing-the-first-100-days-of-australias-new-merger-regime/",
           "dateISO": "2026-04-14",
@@ -4167,7 +4241,7 @@
       "sourceUrl": "https://mk.com.au/news-insights/?expertise=competition-and-consumer",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-18T02:40:37.856Z",
+      "lastOkAt": "2026-11-18T13:39:21.033Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -4300,8 +4374,8 @@
       "domestic": true,
       "manualOnly": false,
       "lastOkAt": "2026-11-18T02:40:37.856Z",
-      "keptPrevious": false,
-      "lastError": null,
+      "keptPrevious": true,
+      "lastError": "practice feed: Unexpected token '<', \"<html><hea\"... is not valid JSON; recent page 1: Unexpected token '<', \"<html><hea\"... is not valid JSON",
       "records": [
         {
           "firm": "Mills Oakley",
