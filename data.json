@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T13:49:23.902Z",
-  "lastCheckedAt": "2026-11-23T01:18:44.265Z",
-  "recordCount": 223,
+  "generatedAt": "2026-11-23T15:39:46.051Z",
+  "lastCheckedAt": "2026-11-23T15:39:46.051Z",
+  "recordCount": 224,
   "firms": [
     {
       "name": "Addisons",
@@ -14,7 +14,7 @@
       "sourceUrl": "https://addisons.com/insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-23T01:15:45.127Z",
+      "lastOkAt": "2026-11-23T15:36:28.498Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -308,7 +308,7 @@
       "sourceUrl": "https://www.allens.com.au/insights-news/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-23T01:15:45.127Z",
+      "lastOkAt": "2026-11-23T15:36:28.498Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -566,7 +566,7 @@
       "sourceUrl": "https://www.mallesons.com/au/en/insights/latest-thinking.html?page=1",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-23T01:15:45.127Z",
+      "lastOkAt": "2026-11-23T15:36:28.498Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -764,10 +764,28 @@
       "sourceUrl": "https://www.gtlaw.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-23T01:15:45.127Z",
+      "lastOkAt": "2026-11-23T15:36:28.498Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
+        {
+          "firm": "Gilbert + Tobin",
+          "title": "AI disputes: AI in financial services – managing the risk",
+          "permalink": "https://www.gtlaw.com.au/insights/ai-disputes-ai-in-financial-services-managing-the-risk",
+          "dateISO": "2026-11-23",
+          "dateText": "23 November 2026",
+          "month": "November 2026",
+          "year": 2026,
+          "topic": "Consumer Law",
+          "topics": [
+            "Consumer Law"
+          ],
+          "teaser": "Explore the legal and regulatory risks of AI in Australian financial services, including governance, automated decisions, consumer protection and ASIC scrutiny.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Gilbert + Tobin",
           "title": "The Competitive Edge with Gilbert + Tobin",
@@ -1260,7 +1278,7 @@
       "sourceUrl": "https://www.claytonutz.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-23T01:15:45.127Z",
+      "lastOkAt": "2026-11-23T15:36:28.498Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1671,7 +1689,7 @@
       "sourceUrl": "https://www.ashurstperkinscoie.com/en/insights/all-insights/",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-23T01:15:45.127Z",
+      "lastOkAt": "2026-11-23T15:36:28.498Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2036,7 +2054,7 @@
       "sourceUrl": "https://www.bakermckenzie.com/en/insight",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-23T01:15:45.127Z",
+      "lastOkAt": "2026-11-23T15:36:28.498Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2202,7 +2220,7 @@
       "sourceUrl": "https://www.twobirds.com/en/insights",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-23T01:15:45.127Z",
+      "lastOkAt": "2026-11-23T15:36:28.498Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2520,7 +2538,7 @@
       "sourceUrl": "https://www.gadens.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-23T01:15:45.127Z",
+      "lastOkAt": "2026-11-23T15:36:28.498Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3005,7 +3023,7 @@
       "sourceUrl": "https://www.corrs.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-23T01:15:45.127Z",
+      "lastOkAt": "2026-11-23T15:36:28.498Z",
       "keptPrevious": false,
       "lastError": "insights page: HTTP 403",
       "records": [
@@ -3133,7 +3151,7 @@
       "sourceUrl": "https://www.dentons.com/en/insights?Filters=%26regionid%3D5CFDCB74SYDNE",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-23T01:15:45.127Z",
+      "lastOkAt": "2026-11-23T15:36:28.498Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3225,7 +3243,7 @@
       "sourceUrl": "https://www.maddocks.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-23T01:15:45.127Z",
+      "lastOkAt": "2026-11-23T15:36:28.498Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -4026,7 +4044,7 @@
       "sourceUrl": "https://hallandwilcox.com.au/news/?service=15647",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-23T01:15:45.127Z",
+      "lastOkAt": "2026-11-23T15:36:28.498Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -4190,7 +4208,7 @@
       "sourceUrl": "https://mk.com.au/news-insights/?expertise=competition-and-consumer",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-23T01:15:45.127Z",
+      "lastOkAt": "2026-11-23T15:36:28.498Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -4322,7 +4340,7 @@
       "sourceUrl": "https://www.millsoakley.com.au/recent-insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-23T01:15:45.127Z",
+      "lastOkAt": "2026-11-23T15:36:28.498Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
