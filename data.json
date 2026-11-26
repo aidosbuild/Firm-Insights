@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T15:17:43.602Z",
-  "lastCheckedAt": "2026-11-25T22:14:06.454Z",
-  "recordCount": 224,
+  "generatedAt": "2026-11-26T03:24:40.433Z",
+  "lastCheckedAt": "2026-11-26T03:24:40.433Z",
+  "recordCount": 234,
   "firms": [
     {
       "name": "Addisons",
@@ -14,7 +14,7 @@
       "sourceUrl": "https://addisons.com/insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-25T22:11:09.501Z",
+      "lastOkAt": "2026-11-26T03:19:12.572Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -308,7 +308,7 @@
       "sourceUrl": "https://www.allens.com.au/insights-news/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-25T22:11:09.501Z",
+      "lastOkAt": "2026-11-26T03:19:12.572Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -566,7 +566,7 @@
       "sourceUrl": "https://www.mallesons.com/au/en/insights/latest-thinking.html?page=1",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-25T22:11:09.501Z",
+      "lastOkAt": "2026-11-26T03:19:12.572Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -764,7 +764,7 @@
       "sourceUrl": "https://www.gtlaw.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-25T22:11:09.501Z",
+      "lastOkAt": "2026-11-26T03:19:12.572Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1278,7 +1278,7 @@
       "sourceUrl": "https://www.claytonutz.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-25T22:11:09.501Z",
+      "lastOkAt": "2026-11-26T03:19:12.572Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -1689,7 +1689,7 @@
       "sourceUrl": "https://www.ashurstperkinscoie.com/en/insights/all-insights/",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-25T22:11:09.501Z",
+      "lastOkAt": "2026-11-26T03:19:12.572Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2072,10 +2072,28 @@
       "sourceUrl": "https://www.bakermckenzie.com/en/insight",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-25T22:11:09.501Z",
+      "lastOkAt": "2026-11-26T03:19:12.572Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia: Update – ASIC Finalises NTA Uplift",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/10/australia-update-asic-finalises-nta-uplift",
+          "dateISO": "2026-10-29",
+          "dateText": "29 October 2026",
+          "month": "October 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "ASIC Corporations (Amendment) Instrument 2026/708 locks in CPI-linked capital increases for responsible entities and fund operators from 1 July 2027.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Baker McKenzie",
           "title": "Australia: Draft Legislation Takes Hammer to Non-Competes",
@@ -2089,6 +2107,60 @@
             "Competition & Consumer"
           ],
           "teaser": "The Federal Government has released long-awaited draft laws to ban non-competes. We explore what the proposed changes mean for employers.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia Charts a New Course on AI Regulation and Policy",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-charts-a-new-course-on-ai-regulation-and-policy",
+          "dateISO": "2026-08-25",
+          "dateText": "25 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Recent developments in Australia indicate that AI-specific regulation is on the horizon and identify areas of law primed for AI-specific reform.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "Australia: Three Things Every Tech Founder Must Nail (Part 2)",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-tech-founder-series",
+          "dateISO": "2026-08-13",
+          "dateText": "13 August 2026",
+          "month": "August 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Practical legal lessons for tech founders to help avoid disputes, regulatory headaches and costly mistakes as they scale.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "title": "AI Governance Tracker",
+          "permalink": "https://www.bakermckenzie.com/en/insight/publications/resources/ai-governance-tracker",
+          "dateISO": "2026-06-24",
+          "dateText": "24 June 2026",
+          "month": "June 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Our AI Governance Tracker is a regularly updated, practical tool that compares global AI regulations and key guiding principles.",
           "summary": "",
           "bullets": [],
           "overridden": false,
@@ -2238,7 +2310,7 @@
       "sourceUrl": "https://www.twobirds.com/en/insights",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-25T22:11:09.501Z",
+      "lastOkAt": "2026-11-26T03:19:12.572Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -2556,7 +2628,7 @@
       "sourceUrl": "https://www.gadens.com/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-25T22:11:09.501Z",
+      "lastOkAt": "2026-11-26T03:19:12.572Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3041,10 +3113,64 @@
       "sourceUrl": "https://www.corrs.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-25T22:11:09.501Z",
+      "lastOkAt": "2026-11-26T03:19:12.572Z",
       "keptPrevious": false,
-      "lastError": "insights page: HTTP 403",
+      "lastError": null,
       "records": [
+        {
+          "firm": "Corrs Chambers Westgarth",
+          "title": "Australia’s new merger control regime: one year on",
+          "permalink": "https://www.corrs.com.au/insights/australias-new-merger-control-regime-one-year-on",
+          "dateISO": "2026-11-17",
+          "dateText": "17 November 2026",
+          "month": "November 2026",
+          "year": 2026,
+          "topic": "Mergers",
+          "topics": [
+            "Mergers"
+          ],
+          "teaser": "",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Corrs Chambers Westgarth",
+          "title": "The forces reshaping mining M&A in 2027",
+          "permalink": "https://www.corrs.com.au/insights/the-forces-reshaping-mining-m-a-in-2027",
+          "dateISO": "2026-11-17",
+          "dateText": "17 November 2026",
+          "month": "November 2026",
+          "year": 2026,
+          "topic": "Mergers",
+          "topics": [
+            "Mergers"
+          ],
+          "teaser": "",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Corrs Chambers Westgarth",
+          "title": "Startup investment: what founders and investors need to know about FIRB and ACCC",
+          "permalink": "https://www.corrs.com.au/insights/startup-investment-what-founders-and-investors-need-to-know-about-firb-and-accc",
+          "dateISO": "2026-10-19",
+          "dateText": "19 October 2026",
+          "month": "October 2026",
+          "year": 2026,
+          "topic": "ACCC",
+          "topics": [
+            "ACCC"
+          ],
+          "teaser": "",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Corrs Chambers Westgarth",
           "title": "Information, oversight and modern duty of care: governance lessons from ASIC v Star directors and officers",
@@ -3169,7 +3295,7 @@
       "sourceUrl": "https://www.dentons.com/en/insights?Filters=%26regionid%3D5CFDCB74SYDNE",
       "domestic": false,
       "manualOnly": false,
-      "lastOkAt": "2026-11-25T22:11:09.501Z",
+      "lastOkAt": "2026-11-26T03:19:12.572Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -3261,10 +3387,64 @@
       "sourceUrl": "https://www.maddocks.com.au/insights",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-25T22:11:09.501Z",
+      "lastOkAt": "2026-11-26T03:19:12.572Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
+        {
+          "firm": "Maddocks",
+          "title": "Changing the Code: TGA consults on targeted change to the Therapeutic Goods Advertising Code",
+          "permalink": "https://www.maddocks.com.au/insights/changing-the-code-tga-consults-on-targeted-change-to-the-therapeutic-goods-advertising-code",
+          "dateISO": "2026-11-26",
+          "dateText": "26 November 2026",
+          "month": "November 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "TGA’s recent consultation on the Therapeutic Goods Advertising Code canvasses potential changes to displayed warnings.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Maddocks",
+          "title": "New South Wales' new medicines and poisons laws: what health practitioners and organisations need to know",
+          "permalink": "https://www.maddocks.com.au/insights/new-south-wales-new-medicines-and-poisons-laws-what-health-practitioners-and-organisations-need-to-know",
+          "dateISO": "2026-11-26",
+          "dateText": "26 November 2026",
+          "month": "November 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "The New Act and the New Regulation commenced on 5 November 2026 and introduced a number of significant reforms.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
+        {
+          "firm": "Maddocks",
+          "title": "Regulating private health insurance premiums: ‘phoenixing’ no more?",
+          "permalink": "https://www.maddocks.com.au/insights/regulating-private-health-insurance-premiums-phoenixing-no-more",
+          "dateISO": "2026-11-26",
+          "dateText": "26 November 2026",
+          "month": "November 2026",
+          "year": 2026,
+          "topic": "Competition & Consumer",
+          "topics": [
+            "Competition & Consumer"
+          ],
+          "teaser": "Private health insurer must now ask the Minister to approve the premium for a new insurance product before offering it.",
+          "summary": "",
+          "bullets": [],
+          "overridden": false,
+          "notes": ""
+        },
         {
           "firm": "Maddocks",
           "title": "Button batteries, nail glue and online marketplaces: the ACCC’s three new product safety proceedings",
@@ -4081,7 +4261,7 @@
       "sourceUrl": "https://hallandwilcox.com.au/news/?service=15647",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-25T22:11:09.501Z",
+      "lastOkAt": "2026-11-26T03:19:12.572Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -4208,7 +4388,7 @@
       "sourceUrl": "https://mk.com.au/news-insights/?expertise=competition-and-consumer",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-25T22:11:09.501Z",
+      "lastOkAt": "2026-11-26T03:19:12.572Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
@@ -4340,7 +4520,7 @@
       "sourceUrl": "https://www.millsoakley.com.au/recent-insights/",
       "domestic": true,
       "manualOnly": false,
-      "lastOkAt": "2026-11-25T22:11:09.501Z",
+      "lastOkAt": "2026-11-26T03:19:12.572Z",
       "keptPrevious": false,
       "lastError": null,
       "records": [
